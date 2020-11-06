@@ -1,0 +1,34 @@
+state={
+	id=97
+	name="STATE_97"
+	provinces={
+		2980 4240 5837 6400 7029 8237 8342 9945 10191 11296 11297 11308 11342 11397 11433 11437 
+	}
+	resources={
+		steel=48
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			11342 10
+		}
+		victory_points = {
+			11433 3
+		}
+		victory_points = {
+			8237 3
+		}
+
+	}
+	
+	
+	manpower=1780000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

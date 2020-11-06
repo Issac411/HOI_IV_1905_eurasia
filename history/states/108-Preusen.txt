@@ -1,0 +1,28 @@
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		82 836 3247 5386 7144 10906 10908 10927 10928 10937 10970 10971 10974 
+	}
+	
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			10927 = {
+                naval_base = 2
+            }
+		}
+		
+		victory_points = {
+			10927 20
+		}
+	}
+	
+	manpower=1228500
+	state_category = town
+	buildings_max_level_factor=1.000
+}

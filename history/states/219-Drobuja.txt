@@ -1,0 +1,27 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		6255 9690 12069 12111 
+	}
+	history={ 
+		add_core_of = ROM
+		owner = ROM
+		buildings = {
+			infrastructure = 4
+			6255 = {
+				naval_base = 2
+			}
+		}
+		
+		Victory_points = {
+			6255 3
+		}
+		
+		
+	}
+	
+	manpower=1987000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

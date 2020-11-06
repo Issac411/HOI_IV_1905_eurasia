@@ -1,0 +1,24 @@
+state={
+	id=217
+	name="STATE_217"
+	provinces={
+		983 7985 12160 
+	}
+	history={ 
+		add_core_of = ROM
+		owner = ROM
+		buildings = {
+			infrastructure = 3
+		}
+		
+		Victory_points = {
+			12160 3
+		}
+		
+		
+	}
+	
+	manpower=198222
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

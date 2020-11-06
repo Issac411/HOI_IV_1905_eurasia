@@ -1,0 +1,31 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		3115 4034 7452 8624 9102 11338 11368 11378 
+	}
+	resources={
+		steel=12
+		aluminium=8
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		victory_points = {
+			7452 5
+		}
+		
+
+
+	}
+
+	manpower=850000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

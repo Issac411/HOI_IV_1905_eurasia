@@ -1,0 +1,22 @@
+state={
+	id=300
+	name="STATE_300"
+	provinces={
+		7353 8586 8750 9317 12476 12530 12548 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			7353 5
+		}
+		
+	}
+	manpower=124500
+	state_category = pastoral	
+	buildings_max_level_factor=1.000
+}

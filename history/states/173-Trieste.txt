@@ -1,0 +1,30 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		386 6690 7169 12001 12027 12048 
+	}
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			386 = {
+				naval_base=3
+			}
+		}
+		
+		victory_points = {
+			386 10
+		}
+		
+		victory_points = {
+			12048 3
+		}
+	}
+	
+	manpower=287500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

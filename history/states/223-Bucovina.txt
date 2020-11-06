@@ -1,0 +1,25 @@
+
+state={
+	id=223
+	name="STATE_223"
+	provinces={
+		2142 11644 11660 11703 11746 11783 
+	}
+	history={ 
+		add_core_of = ROM
+		owner = ROM
+		buildings = {
+			infrastructure = 2
+		}
+		
+		Victory_points = {
+			11660 3
+		}
+		
+		
+	}
+	
+	manpower=368500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

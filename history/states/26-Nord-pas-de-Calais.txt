@@ -1,0 +1,28 @@
+
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		6696 7795 11404 11459 
+	}
+	resources={
+		steel=32
+		aluminium=4
+	}
+	history = {
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			7795 5
+		}
+		
+	}
+	
+	manpower=560000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=77
+	name="STATE_77"
+	provinces={
+		3719 4191 7505 7529 7582 8335 9785 11577 11634 11674 11697 11716 11730 11740 11757 
+	}
+	resources={
+		aluminium=6
+	}
+	history = {
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			11634 3
+		}
+		
+	}
+	manpower=998500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

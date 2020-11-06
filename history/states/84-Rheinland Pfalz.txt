@@ -1,0 +1,29 @@
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		3168 5143 8901 11411 11426 11436 11460 11464 11500 11507 
+	}
+	resources={
+		steel=12
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11426 5
+		}
+
+
+	}
+	
+	
+	manpower=452500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

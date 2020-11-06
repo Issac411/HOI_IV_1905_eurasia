@@ -1,0 +1,25 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		4496 6234 6370 6425 6870 6980 8313 11013 11032 11033 
+	}
+	
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11032 3
+		}
+	}
+	
+	
+	manpower=777500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

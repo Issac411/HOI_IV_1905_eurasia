@@ -1,0 +1,27 @@
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		624 1157 2672 6710 7508 10090 11131 11205 
+	}
+	resources={
+		steel=4
+	}
+	history={ 
+		add_core_of = HOL
+		owner = HOL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			624 3
+		}
+
+	}
+	
+	manpower=450000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

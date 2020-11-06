@@ -1,0 +1,33 @@
+
+state={
+	id=147
+	name="STATE_147"
+	provinces={
+		1522 3413 5362 7001 7477 7698 12312 12332 12393 
+	}
+	
+	resources={
+		tungsten=10
+	}
+
+
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = {
+			7001 10
+		}		
+		
+		victory_points = {
+			12312 3
+		}		
+		
+	}
+	manpower=1770000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

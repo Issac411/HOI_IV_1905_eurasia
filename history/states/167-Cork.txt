@@ -1,0 +1,24 @@
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		4211 8691 11172 11178 11189 11195 11233 11234 11284 
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			11234 10
+		}			
+		
+	}
+	
+	manpower=550000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

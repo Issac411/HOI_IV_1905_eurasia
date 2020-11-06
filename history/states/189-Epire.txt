@@ -1,0 +1,28 @@
+state={
+	id=189
+	name="STATE_189"
+	provinces={
+		7498 12619 12660 12690 
+	}
+	resources={
+		steel=4
+		aluminium=4
+	}
+	history = {
+		add_core_of = ALB
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			12660 3
+		}
+		
+		
+	}
+	
+	manpower=224500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

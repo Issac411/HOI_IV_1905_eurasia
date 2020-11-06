@@ -1,0 +1,29 @@
+state={
+	id=57
+	name="STATE_57"
+	provinces={
+		251 4870 7793 8484 11981 12000 12016 12043 12053 12073 12078 12099 
+	}
+	resources={
+		steel=12
+		aluminium=4
+		tungsten=2
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+
+		victory_points = {
+			12000 3
+		}
+	}
+	
+	
+	manpower=1860000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

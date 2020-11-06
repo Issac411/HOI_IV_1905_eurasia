@@ -1,0 +1,25 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		276 3299 3328 3843 4194 4808 5152 5632 6329 7980 8402 9052 9333 11201 11264 11291 11318 11333 11424 11429 11476 11522 
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 4
+		}
+		
+		
+		victory_points = {
+			9052 20
+		}
+		
+		
+	}
+	
+	manpower=925000
+	state_category = rural	
+	buildings_max_level_factor=1.000
+}

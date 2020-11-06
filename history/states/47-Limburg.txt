@@ -1,0 +1,24 @@
+state={
+	id=47
+	name="STATE_47"
+	provinces={
+		5918 
+	}
+	history={ 
+		add_core_of = HOL
+		owner = HOL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			5918 5
+		}
+
+	}
+	
+	manpower=97500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

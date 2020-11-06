@@ -1,0 +1,32 @@
+
+state={
+	id=249
+	name="STATE_249"
+	provinces={
+		4352 5433 7894 8477 8730 8776 9090 9266 9843 9911 10734 10747 10776 10779 10789 10818 
+	}
+	history = {
+		add_core_of = DEN
+		owner = DEN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			10818 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			10818 5 
+		}
+		
+		victory_points = {
+			5433 3 
+		}
+		
+	}
+	
+	manpower=1327000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

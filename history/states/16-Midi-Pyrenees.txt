@@ -1,0 +1,26 @@
+
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		2632 3334 3531 3573 4044 4362 4515 5092 5722 7100 7275 9145 9337 12042 12143 12153 12167 12190 
+	}
+	
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			5722 20
+		}
+
+
+	}
+	
+	manpower=2300000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

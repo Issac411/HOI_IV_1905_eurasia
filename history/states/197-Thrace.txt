@@ -1,0 +1,26 @@
+state={
+	id=197
+	name="STATE_197"
+	provinces={
+		132 9597 12495 
+	}
+	resources={
+		chromium=4
+	}	
+	history = {
+		add_core_of = GRE
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			9597 = {
+				naval_base = 1
+			}
+		}
+		
+	}
+	
+	manpower=438500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

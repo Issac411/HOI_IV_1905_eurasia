@@ -1,0 +1,44 @@
+
+state={
+	id=194
+	name="STATE_194"
+	provinces={
+		2640 5617 6773 7036 8621 9014 9514 9803 12920 12937 12972 13030 13118 15909 
+	}
+	
+	
+	history = {
+		add_core_of = GRE
+		owner = GRE
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			9514 = {
+				naval_base = 2
+			}
+			7036 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			12920 3
+		}
+		
+		victory_points = {
+			9514 5
+		}
+		
+		victory_points = {
+			7036 5
+		}
+		
+		
+		
+		
+	}
+	
+	manpower=1250000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

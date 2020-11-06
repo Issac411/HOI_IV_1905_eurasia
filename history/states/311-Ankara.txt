@@ -1,0 +1,22 @@
+state={
+	id=311
+	name="STATE_311"
+	provinces={
+		783 1159 2908 4076 5462 5575 6589 7760 9434 10069 12585 12615 12623 12654 12661 12670 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		
+		
+		
+	}
+	manpower=1850000
+	state_category = town	
+	buildings_max_level_factor=1.000
+}

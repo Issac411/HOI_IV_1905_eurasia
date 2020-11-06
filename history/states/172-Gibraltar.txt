@@ -1,0 +1,21 @@
+state={
+	id=172
+	name="STATE_172"
+	provinces={
+		9652 
+	}
+	history = {
+		add_core_of = SPA
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			9652 = {
+				naval_base=3
+			}
+		}
+	}
+	
+	manpower=23500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

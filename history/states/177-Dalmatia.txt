@@ -1,0 +1,36 @@
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		1598 2867 3796 4645 5112 5823 12204 12227 12250 12277 15897 15898 15895
+	}
+	resources={
+		aluminium=4
+	}
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			5112 = {
+				naval_base=1
+			}
+			4645 = {
+				naval_base=2
+			}
+		}
+		
+		victory_points = {
+			5112 3
+		}
+		
+		victory_points = {
+			4645 5
+		}
+	}
+	
+	manpower=1280000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

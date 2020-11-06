@@ -1,0 +1,25 @@
+state={
+	id=247
+	name="STATE_247"
+	provinces={
+		6476 9377 12486 12502 12511 
+	}
+	history = {
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			6476 = {
+				naval_base = 4
+			}
+		}
+		
+		
+	}
+	
+	manpower=3600000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

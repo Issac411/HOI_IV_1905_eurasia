@@ -1,0 +1,32 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		1022 4540 5364 5880 9766 9897 10092 12307 12339 12428 12446 
+	}
+	
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = {
+			9897 10
+		}		
+		
+		victory_points = {
+			12428 5
+		}
+
+		victory_points = {
+			10092 3
+		}			
+		
+	}
+	
+	manpower=2300000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

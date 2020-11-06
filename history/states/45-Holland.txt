@@ -1,0 +1,45 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		1097 4355 7416 11120 11176 11199 11207 11226 15885 
+	}
+	resources={
+		steel=6
+	}
+	history={ 
+		add_core_of = HOL
+		owner = HOL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			11199 = {
+				naval_base = 4
+			}
+			11207 = {
+				naval_base = 2
+			}
+			dockyard = 2
+		}
+		
+		victory_points = {
+			1097 5
+		}
+		
+		victory_points = {
+			11199 50
+		}
+		
+		victory_points = {
+			11207 10
+		}
+		
+		victory_points = {
+			11226 20
+		}
+	}
+	
+	manpower=3500000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

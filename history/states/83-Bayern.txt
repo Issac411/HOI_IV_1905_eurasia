@@ -1,0 +1,25 @@
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		9288 9420 11513 11571 
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			9420 20
+		}
+
+
+	}
+	
+	
+	manpower=483500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

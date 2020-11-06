@@ -1,0 +1,21 @@
+state={
+	id=267
+	name="STATE_267"
+	provinces={
+		2377 2661 4421 8469 10180 
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			2377 3
+		}
+	}
+	
+	manpower=480000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		8008 9104 11546 11564 
+	}
+	resources={
+		steel=12
+		aluminium=8
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			9104 3
+		}
+
+
+	}
+	
+	
+	manpower=137500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

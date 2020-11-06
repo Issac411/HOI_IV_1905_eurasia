@@ -1,0 +1,27 @@
+
+state={
+	id=206
+	name="STATE_206"
+	provinces={
+		4062 4335 6403 11773 11790 11813 11814 11853 
+	}
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		
+		Victory_points = {
+			11790 50
+		}
+		
+	}
+	
+	manpower=2215000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

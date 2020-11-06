@@ -1,0 +1,26 @@
+state={
+	id=204
+	name="STATE_204"
+	provinces={
+		12335 12340 12352 
+	}
+	history = {
+		add_core_of = BUL
+		owner = BUL
+		buildings = {
+			infrastructure = 4
+			12335 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			12335 5
+		}
+		
+	
+	}
+	
+	manpower=323000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

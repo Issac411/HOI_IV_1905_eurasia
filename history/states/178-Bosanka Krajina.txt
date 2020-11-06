@@ -1,0 +1,29 @@
+state={
+	id=178
+	name="STATE_178"
+	provinces={
+		750 3612 5737 5853 6994 12049 12085 12136 
+	}
+	resources={
+		aluminium=6
+	}
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			5737 3
+		}
+		
+		victory_points = {
+			6994 5
+		}
+	}
+	
+	manpower=927000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

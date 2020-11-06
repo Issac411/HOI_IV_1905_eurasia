@@ -1,0 +1,24 @@
+state={
+	id=32
+	name="STATE_32"
+	provinces={
+		1761 2022 6347 6769 9085 11743 11770 11771 11780 11806 11834 11860 11879 
+	}
+	
+	history = {
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		
+		victory_points = {
+			9085 3
+		}
+	}
+	manpower=1270000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

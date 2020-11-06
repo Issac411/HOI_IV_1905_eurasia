@@ -1,0 +1,29 @@
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		829 1198 2424 3192 6264 6487 7293 7395 7423 7552 7639 8161 8581 9080 9199 9300 9423 9587 9726 11023 11054 11059 11072 11132 11156 11167 11239 11268 11287 
+	}
+	resources={
+		oil=3
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			9423 10
+		}
+		
+
+
+	}
+	
+	
+	manpower=3246500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

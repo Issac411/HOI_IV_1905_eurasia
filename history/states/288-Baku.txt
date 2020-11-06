@@ -1,0 +1,27 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		6389 7879 7900 12311 12345 12384 12396 12430 12449 12479 12490 
+	}
+	resources={
+		oil = 4
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+		victory_points = {
+			12449 3
+		}
+		
+		
+	}
+	manpower=238500
+	state_category = pastoral	
+	buildings_max_level_factor=1.000
+}

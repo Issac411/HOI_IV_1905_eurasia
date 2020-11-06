@@ -1,0 +1,25 @@
+state={
+	id=180
+	name="STATE_180"
+	provinces={
+		7618 9366 12212 12247 12281 
+	}
+	resources={
+		aluminium=12
+	}
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			7618 3
+		}
+	}
+	
+	manpower=382500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

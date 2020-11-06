@@ -1,0 +1,33 @@
+state={
+	id=196
+	name="STATE_196"
+	provinces={
+		5698 5959 7499 9575 9772 10132 12483 12507 12536 12572 12584 12592 12606 12646 
+	}
+	resources={
+		steel=2
+		chromium=4
+	}	
+	history = {
+		add_core_of = GRE
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+			12536 = {
+				naval_base = 3
+			}
+		}
+		
+		victory_points = {
+			12536 20
+		}	
+		
+		victory_points = {
+			9575 3
+		}	
+	}
+	
+	manpower=1350000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

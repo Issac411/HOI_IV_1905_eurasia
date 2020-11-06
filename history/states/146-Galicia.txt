@@ -1,0 +1,37 @@
+
+state={
+	id=146
+	name="STATE_146"
+	provinces={
+		774 2977 3714 5995 6740 7177 7248 8727 9427 12215 12269 12284 12319 12360 
+	}
+	
+	resources={
+		tugsten=10
+	}
+	
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 1
+			7248 = {
+				naval_base = 2
+			}
+		}
+
+		victory_points = {
+			7248 20
+		}		
+		
+		victory_points = {
+			8727 5
+		}		
+		
+	}
+	manpower=2270000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		2239 6720 6845 7331 8745 9640 10823 10843 10853 10874 10877 10900 10907 15876 15879 15882 
+	}
+	history = {
+		add_core_of = DEN
+		owner = DEN
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 2
+			2239 = {
+				naval_base = 3
+			}
+		}
+		
+		victory_points = {
+			2239 50
+		}
+		
+	}
+	
+	manpower=1116000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

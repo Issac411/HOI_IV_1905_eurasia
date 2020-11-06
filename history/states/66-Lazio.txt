@@ -1,0 +1,37 @@
+state={
+	id=66
+	name="STATE_66"
+	provinces={
+		2096 8291 8317 8590 12320 12357 12363 12389 12412 12425 12440 12441 12458 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 2
+			2096 = {
+				naval_base = 5
+			}
+			12440 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			2096 50
+		}
+		victory_points = {
+			12440 3
+		}
+		
+		
+	}
+	
+	
+	manpower=5745000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

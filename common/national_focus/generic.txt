@@ -1,0 +1,653 @@
+focus_tree = {
+	id = generic_focus
+	
+	country = {
+		factor = 1
+	}
+	
+	default = yes
+	reset_on_civilwar = no
+
+	focus = {
+		id = plan_de_revision_1905
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 10
+		y = 0
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			army_experience = 5
+			add_tech_bonus = {
+				name = land_doc_bonus
+				bonus = 0.5
+				uses = 1
+				category = land_doctrine
+			}
+		}
+	}
+	
+	focus = {
+		id = planification_prudente
+		prerequisite = { focus = plan_de_revision_1905 }
+		relative_position_id = plan_de_revision_1905
+		mutually_exclusive = { focus = restructuration_des_divisions }
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -7
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_tech_bonus = {
+				name = land_doc_bonus
+				bonus = 1
+				uses = 1
+				category = land_doctrine
+			}
+		}
+	}
+	
+	focus = {
+		id = etat_major_organise
+		prerequisite = { focus = planification_prudente }
+		relative_position_id = planification_prudente
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_ideas = general_staff
+		}
+	}
+	
+	focus = {
+		id = restructuration_des_divisions
+		mutually_exclusive = { focus = planification_prudente }
+		prerequisite = { focus = plan_de_revision_1905 }
+		relative_position_id = plan_de_revision_1905
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -5
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			army_experience = 20
+		}
+	}
+	
+	focus = {
+		id = officiers_talentueux
+		prerequisite = { focus = restructuration_des_divisions }
+		relative_position_id = restructuration_des_divisions
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_ideas = general_staff
+		}
+	}
+	
+	focus = {
+		id = fusils_francais
+		available = {
+			has_war_support > 0.35
+			threat > 0.20
+		}
+		prerequisite = { focus = officiers_talentueux focus = etat_major_organise }
+		relative_position_id = officiers_talentueux
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -2
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			FRA = {
+					country_event = { id = germany.60 }
+					custom_effect_tooltip = may_provoke_hostility
+				}
+		}
+	}
+	
+	focus = {
+		id = fusils_allemands
+		available = {
+			has_war_support > 0.35
+			threat > 0.20
+		}
+		prerequisite = { focus = officiers_talentueux focus = etat_major_organise }
+		relative_position_id = officiers_talentueux
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			GER = {
+					country_event = generic.2
+				}
+		}
+	}
+	
+		focus = {
+		id = developpement_de_l_infanterie_mobile
+		available = {
+		    Date > 1908.1.1
+		}
+		prerequisite = { focus = officiers_talentueux focus = etat_major_organise }
+		relative_position_id = officiers_talentueux
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -1
+		y = 2
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_tech_bonus = {
+				name = POL_modernising_the_cavalry
+				bonus = 0.75
+				uses = 1
+				category = motorized_equipment
+			}
+		}
+	}
+	
+	focus = {
+		id = sections_de_support
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -2
+		y = 1
+		prerequisite = { focus = plan_de_revision_1905 }
+		relative_position_id = plan_de_revision_1905
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			army_experience = 10
+			add_tech_bonus = {
+				name = support_bonus
+				bonus = 1.0
+				uses = 2
+				category = support_tech	
+			}
+		}
+	}
+	
+	focus = {
+		id = modernisation_des_fusils
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		prerequisite = { focus = plan_de_revision_1905 }
+		relative_position_id = plan_de_revision_1905
+		cost = 10
+
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+					name = weapon_bonus
+					bonus = 1.0
+					ahead_reduction = 1
+					uses = 1
+					category = infantry_weapons
+				}
+		}
+	}
+	
+	focus = {
+		id = fortification_de_la_capitale
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 4
+		y = 1
+		prerequisite = { focus = plan_de_revision_1905 }
+		relative_position_id = plan_de_revision_1905
+		cost = 10
+
+		available_if_capitulated = no
+		completion_reward = {
+			capital_scope = {
+				add_building_construction {
+					province = {
+						all_provinces = yes
+					}
+					type = bunker 
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+	}
+	
+	
+	focus = {
+		id = mitrailleuses
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		relative_position_id = plan_de_revision_1905
+		cost = 10
+
+		available_if_capitulated = yes
+		completion_reward = {
+			army_experience = 10
+			add_tech_bonus = {
+					name = weapon_bonus
+					bonus = 2.0
+					uses = 1
+					category = infantry_weapons
+				}
+		}
+	}
+	
+	focus = {
+		id = forts_cotiers
+		icon = GFX_goal_generic_allies_build_infantry
+		x = -2
+		y = 1
+		bypass = { 
+			every_owned_state = { is_coastal= NOT   }
+	
+		}
+		prerequisite = { focus = fortification_de_la_capitale }
+		available = { any_owned_state = { is_coastal= yes } }
+		relative_position_id = fortification_de_la_capitale
+		cost = 10
+
+		available_if_capitulated = no
+		completion_reward = {
+			every_state {
+				limit = {
+					is_fully_controlled_by = ROOT
+					is_coastal = yes
+					is_core = yes
+				}
+				add_building_construction = {
+							type = coastal_bunker
+							province = {
+								all_provinces = yes
+								limit_to_naval_base = yes
+							}
+							level = 1
+							instant_build = yes
+						}
+			}
+		}
+	}
+	
+	focus = {
+		id = villes_forteresses
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 2
+		y = 1
+		prerequisite = { focus = fortification_de_la_capitale }
+		relative_position_id = fortification_de_la_capitale
+		cost = 25
+
+		available_if_capitulated = no
+		completion_reward = {
+			every_owned_state {
+				limit = {
+					is_fully_controlled_by = ROOT
+					is_core = yes
+				}
+				add_building_construction = {
+							type = bunker
+							province = {
+            	    	        all_provinces = yes
+            	    	        limit_to_victory_point = yes
+            	    	    }
+							level = 1
+							instant_build = yes
+						}
+			}
+		}
+	}
+	
+	focus = {
+		id = volontaires_patriotes
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 2
+		prerequisite = { focus = villes_forteresses }
+		prerequisite = { focus = forts_cotiers }
+		relative_position_id = fortification_de_la_capitale
+		cost = 10
+
+		available_if_capitulated = no
+		completion_reward = {
+			add_ideas= ENG_king_edward  
+		}
+	}
+	
+	focus = {
+		id = mass_mobilisation
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		prerequisite = { focus = volontaires_patriotes }
+		relative_position_id = volontaires_patriotes
+		cost = 10
+
+		available_if_capitulated = no
+		completion_reward = {
+			if {
+				limit = {
+					has_idea = partial_economic_mobilisation
+					NOT = { has_idea = war_economy }
+					NOT = { has_idea = tot_economic_mobilisation }
+				}
+			add_ideas = war_economy 
+			}
+		
+			if {
+				limit = {
+					NOT = { has_idea = partial_economic_mobilisation }
+					NOT = { has_idea = war_economy }
+					NOT = { has_idea = tot_economic_mobilisation }
+				}
+			add_ideas = partial_economic_mobilisation 
+			}
+		}
+	}
+	
+		focus = {
+		id = artillerie
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 1
+		prerequisite = { focus = mitrailleuses }
+		relative_position_id = mitrailleuses
+		cost = 10
+
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+					name = weapon_bonus
+					bonus = 1.0
+					uses = 1
+					category = 	artillery
+				}
+		}
+	}
+	
+	focus = {
+		id = plan_de_revision_1910
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 0
+		y = 3
+		prerequisite = { focus = artillerie }
+		relative_position_id = artillerie
+		available = { 
+				OR = { date > 1910.1.1
+					   threat > 0.7
+					}
+		}
+		cost = 15
+
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+					name = weapon_bonus
+					bonus = 0.5
+					uses = 1
+					category = 	infantry_weapons
+				}
+			add_tech_bonus = {
+					name = weapon_bonus
+					bonus = 0.5
+					uses = 1
+					category = 	artillery
+				}
+		}
+	}
+	
+
+	
+	focus = {
+		id = industrialisation
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 20
+		y = 0
+		cost = 10
+
+		available_if_capitulated = yes
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			    is_core = yes
+			}
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = { 
+				type = industrial_complex
+				level = 2
+				instant_build = yes }
+			}
+
+		}
+	}
+
+		focus = {
+    		id = innovations_mecaniques
+    		prerequisite = { focus = industrialisation }
+            relative_position_id = industrialisation
+    		icon = GFX_goal_generic_allies_build_infantry
+    		x = 0
+    		y = 1
+    		cost = 10
+
+    		available_if_capitulated = yes
+    		completion_reward = {
+                add_tech_bonus = {
+                    name = industrial_bonus
+                    bonus = 0.5
+                    uses = 2
+                    category = industry
+                }
+
+    		}
+    	}
+
+    	focus = {
+            id = genie_industriel
+            prerequisite = { focus = innovations_mecaniques }
+            relative_position_id = innovations_mecaniques
+            icon = GFX_goal_generic_allies_build_infantry
+            x = 2
+            y = 1
+            cost = 10
+
+            available_if_capitulated = yes
+            completion_reward = {
+                add_tech_bonus = {
+                    name = industrial_bonus
+                    bonus = 1
+                    uses = 1
+                    category = industry
+                }
+
+            }
+        }
+
+    	focus = {
+            id = urbanisation_de_la_capitale
+            prerequisite = { focus = innovations_mecaniques }
+            relative_position_id = innovations_mecaniques
+            icon = GFX_goal_generic_allies_build_infantry
+            x = 0
+            y = 1
+            cost = 10
+
+            available_if_capitulated = yes
+            completion_reward = {
+                capital_scope = {
+                    add_extra_state_shared_building_slots = 3
+                }
+            }
+        }
+
+        focus = {
+            id = developpement_des_villes_clefs
+            prerequisite = { focus = urbanisation_de_la_capitale }
+            relative_position_id = urbanisation_de_la_capitale
+            icon = GFX_goal_generic_allies_build_infantry
+            x = 0
+            y = 1
+            cost = 10
+
+            available_if_capitulated = yes
+            completion_reward = {
+                every_owned_state = {
+                limit = {
+                    is_core = yes
+                }
+                add_extra_state_shared_building_slots = 1
+                }
+            }
+        }
+
+        focus = {
+            id = progres_en_electronique
+            prerequisite = { focus = developpement_des_villes_clefs }
+            relative_position_id = developpement_des_villes_clefs
+            icon = GFX_goal_generic_allies_build_infantry
+            x = 2
+            y = 1
+            cost = 10
+
+            available_if_capitulated = yes
+            completion_reward = {
+                add_tech_bonus = {
+                    name = industrial_bonus
+                    bonus = 1
+                    uses = 1
+                    category = electronics
+                }
+            }
+        }
+
+        focus = {
+                     id = motorisation
+                     prerequisite = { focus = developpement_des_villes_clefs }
+                     relative_position_id = developpement_des_villes_clefs
+                     icon = GFX_goal_generic_allies_build_infantry
+                     x = 0
+                     y = 1
+                     cost = 10
+
+                     available_if_capitulated = yes
+                     completion_reward = {
+                         add_tech_bonus = {
+                             name = industrial_bonus
+                             bonus = 0.25
+                             uses = 3
+                             category = industry
+                         }
+                     }
+                 }
+
+         focus = {
+             id = etablir_les_divisions_motorises
+             prerequisite = { focus = motorisation }
+             prerequisite = { focus = plan_de_revision_1910 }
+             prerequisite = { focus = developpement_de_l_infanterie_mobile }
+             relative_position_id = motorisation
+             icon = GFX_goal_generic_allies_build_infantry
+             x = -4
+             y = 3
+             cost = 10
+
+             available_if_capitulated = yes
+             completion_reward = {
+                 add_tech_bonus = {
+                     name = industrial_bonus
+                     bonus = 0.5
+                     uses = 1
+                     category = motorized_equipment
+                 }
+                division_template = {
+                    name = "Motorized brigade"
+                    regiments = {
+                        motorized = { x = 1 y = 0 }
+                        motorized = { x = 1 y = 1 }
+                        motorized = { x = 1 y = 2 }
+                    }
+                    support = {
+                        recon = { x = 0 y = 0 }
+                    }
+                }
+                capital_scope = {
+                    create_unit = {
+                        division = "name = \"1st motorized Brigade\" division_template = \"Motorized brigade\" start_experience_factor = 0.2"
+                        owner = ROOT
+                    }
+                }
+             }
+         }
+
+         focus = {
+              id = Plan_d_armement
+              prerequisite = { focus = motorisation }
+              relative_position_id = motorisation
+              icon = GFX_goal_generic_allies_build_infantry
+              x = 0
+              y = 1
+              cost = 10
+
+              available_if_capitulated = yes
+               completion_reward = {
+                    random_owned_controlled_state = {
+                    limit = {
+                        is_core = yes
+                    }
+                    add_extra_state_shared_building_slots = 1
+                    add_building_construction = {
+                        type = arms_factory
+                        level = 1
+                        instant_build = yes }
+                    }
+
+               }
+          }
+
+         focus = {
+              id = Poursuivre_l_industrialisation_militaire
+              prerequisite = { focus = Plan_d_armement }
+              relative_position_id = Plan_d_armement
+              icon = GFX_goal_generic_allies_build_infantry
+              x = 0
+              y = 1
+              cost = 10
+
+              available_if_capitulated = yes
+               completion_reward = {
+                    random_owned_controlled_state = {
+                    limit = {
+                        is_core = yes
+                    }
+                    add_extra_state_shared_building_slots = 1
+                    add_building_construction = {
+                        type = arms_factory
+                        level = 1
+                        instant_build = yes }
+                    }
+
+               }
+          }
+	}

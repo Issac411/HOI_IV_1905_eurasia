@@ -1,0 +1,26 @@
+state={
+	id=251
+	name="STATE_251"
+	provinces={
+		3150 4150 9935 12694 12710 12723 12781 15906 
+	}
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 2
+			4150 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			4150 3
+		}
+		
+	}
+	
+	manpower=98500
+	state_category = Pastoral
+	buildings_max_level_factor=1.000
+}

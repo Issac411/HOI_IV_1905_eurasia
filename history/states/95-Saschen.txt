@@ -1,0 +1,27 @@
+
+state={
+	id=95
+	name="STATE_95"
+	provinces={
+		1229 4600 4695 5156 6706 6834 6865 10127 11169 11227 11235 11248 11261 11269 
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			11235 3
+		}
+		
+
+
+	}
+	
+	
+	manpower=2425000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

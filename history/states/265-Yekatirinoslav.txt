@@ -1,0 +1,42 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		163 821 1196 1562 1936 2349 3450 3642 4644 4779 5328 6415 6850 7006 8638 11612 11624 11669 11670 11689 11699 11721 11734 11758 11761 
+	}
+	resources={
+		oil = 6
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			163 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			3642 20
+		}
+		
+		victory_points = {
+			1562 10
+		}
+		
+		victory_points = {
+			163 10
+		}
+		
+		victory_points = {
+			11689 20
+		}
+		
+	}
+	
+	manpower=2550000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

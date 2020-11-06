@@ -1,0 +1,33 @@
+
+state={
+	id=193
+	name="STATE_193"
+	provinces={
+		2010 4499 4700 6723 6731 6991 10060 12769 12814 12815 12830 12835 12851 12865 12886 12899 12954 
+	}
+	resources={
+		tungsten=12
+		aluminium=12
+	}	
+	history = {
+		add_core_of = GRE
+		owner = GRE
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 2
+			infrastructure = 4
+			2010 = {
+				naval_base = 4
+			}
+		}
+		
+		victory_points = {
+			2010 50
+		}
+		
+	}
+	
+	manpower=3350000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

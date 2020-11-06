@@ -1,0 +1,34 @@
+
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		854 8065 8236 9212 11373 11410 11425 
+	}
+	resources={
+		steel=24
+	}
+	history={ 
+		add_core_of = BEL
+		owner = BEL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11373 50
+		}
+		victory_points = {
+			9212 10
+		}
+		
+		victory_points = {
+			11410 10
+		}
+	}
+	
+	manpower=4450000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

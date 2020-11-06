@@ -1,0 +1,21 @@
+
+state={
+	id=290
+	name="STATE_290"
+	provinces={
+		2554 4089 5247 7208 12310 12372 
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 1
+		}
+		
+		
+		
+	}
+	manpower=185000
+	state_category = pastoral	
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=14
+	name="STATE_14"
+	provinces={
+		182 8070 8516 9257 9466 12084 12098 12126 12132 12139 12154 12165 12203 12225 12226 
+	}
+	resources={
+		steel=64
+		aluminium=42
+		tungsten=2
+	}
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			8516 10
+		}
+		
+		victory_points = {
+			8070 3
+		}
+
+
+	}
+	
+	
+	manpower=2270500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

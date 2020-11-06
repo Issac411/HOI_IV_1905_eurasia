@@ -1,0 +1,28 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		111 1081 2393 3881 5380 5888 8164 9771 11613 11619 11640 
+	}
+	history = {
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			111 = {
+				naval_base = 2
+			}
+
+		}
+		
+		victory_points = {
+			111 5
+		}
+	}
+	
+	
+	manpower=556500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

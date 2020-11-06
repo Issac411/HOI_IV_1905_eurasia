@@ -1,0 +1,30 @@
+state={
+	id=209
+	name="STATE_209"
+	provinces={
+		469 2727 6708 7699 8794 9061 11599 11627 11638 11680 11698 11724 
+	}
+	resources={
+		steel=2
+		tungsten=2
+	}
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		
+		Victory_points = {
+			7699 20
+		}
+		
+	}
+	
+	manpower=769000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

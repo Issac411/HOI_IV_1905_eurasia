@@ -1,0 +1,22 @@
+state={
+	id=304
+	name="STATE_304"
+	provinces={
+		664 4590 5147 9457 10243 12740 12751 12782 12788 12804 12822 12825 12843 12852 12856 12887 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			12843 3
+		}
+		
+	}
+	manpower=423500
+	state_category = rural	
+	buildings_max_level_factor=1.000
+}

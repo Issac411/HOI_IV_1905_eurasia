@@ -1,0 +1,27 @@
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		837 2641 11123 11124 11146 11168 11208 
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			837 3
+		}
+		
+
+
+	}
+	
+	
+	manpower=1385000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

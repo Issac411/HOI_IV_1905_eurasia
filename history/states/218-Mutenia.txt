@@ -1,0 +1,27 @@
+
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		416 1895 2994 3152 3389 4872 5517 5612 5956 7042 7965 8524 8588 8616 8781 9362 9776 10115 11970 11993 11995 12011 12030 12040 12058 12086 12110 12140 12147 
+	}
+	history={ 
+		add_core_of = ROM
+		owner = ROM
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 4
+		}
+		
+		Victory_points = {
+			9776 50
+		}
+		
+		
+	}
+	
+	manpower=2750000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

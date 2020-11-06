@@ -1,0 +1,30 @@
+
+state={
+	id=72
+	name="STATE_72"
+	provinces={
+		2391 7913 12518 12627 
+	}
+	resources={
+		steel=12
+		aluminium=16
+		tungsten=2
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			12518 3
+		}		
+		
+	}
+	
+	
+	manpower=455000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=12
+	name="STATE_12"
+	provinces={
+		1809 12249 12255 12256 
+	}
+	
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			12255 3
+		}
+
+
+	}
+
+	manpower=427000
+	buildings_max_level_factor=1.000
+}

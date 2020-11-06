@@ -1,0 +1,27 @@
+state={
+	id=165
+	name="STATE_165"
+	provinces={
+		1606 1763 8013 9790 12915 
+	}
+	
+	
+	history = {
+		add_core_of = POR
+		owner = POR
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			1763 10
+		}			
+		
+	}
+	
+	manpower=689000
+	state_category = rural
+	
+	
+	buildings_max_level_factor=1.000
+}

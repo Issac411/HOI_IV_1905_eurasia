@@ -1,0 +1,28 @@
+state={
+	id=104
+	name="STATE_104"
+	provinces={
+		4111 4175 5778 7561 9796 10150 11106 11196 11219 
+	}
+	resources={
+		aluminium=16
+	}
+	manpower=1370000
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			7561 5
+		}
+		
+
+
+	}
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

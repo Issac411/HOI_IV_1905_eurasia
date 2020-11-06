@@ -1,0 +1,23 @@
+state={
+	id=248
+	name="STATE_248"
+	provinces={
+		5373 7070 7418 10308 10852 10860 10870 10883 
+	}
+	history = {
+		add_core_of = DEN
+		owner = DEN
+		buildings = {
+			infrastructure = 4
+		}
+		
+		victory_points = {
+			7418 5 
+		}
+		
+	}
+	
+	manpower=227500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

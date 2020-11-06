@@ -1,0 +1,27 @@
+state={
+	id=212
+	name="STATE_212"
+	provinces={
+		3725 4446 6746 7628 9949 10214 11920 11974 
+	}
+	history={ 
+		add_core_of = ASH
+		add_core_of = ROM
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		
+		Victory_points = {
+			7628 10
+		}
+		
+	}
+	
+	manpower=431500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

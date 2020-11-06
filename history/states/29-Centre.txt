@@ -1,0 +1,31 @@
+
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		670 3162 3982 4813 4997 5231 5399 6832 7400 7457 7889 9616 9867 11639 11666 11702 11748 11752 11764 11775 11776 11801 11818 11825 11841 11858 11859 11878 
+	}
+	
+	history = {
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+		
+		victory_points = {
+			6832 5
+		}
+		victory_points = {
+			670 3
+		}
+		victory_points = {
+			11801 10
+		}
+	}
+	
+	manpower=1750000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

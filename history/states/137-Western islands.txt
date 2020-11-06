@@ -1,0 +1,18 @@
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		8165 10685 10700 10715 10727 10742 
+	}
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}	
+		
+	}
+	manpower=17000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

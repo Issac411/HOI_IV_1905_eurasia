@@ -1,0 +1,19 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		11828 
+	}
+	
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	state_category = pastoral
+	manpower=32800
+	buildings_max_level_factor=1.000
+}

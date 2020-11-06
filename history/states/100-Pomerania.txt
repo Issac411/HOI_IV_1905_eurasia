@@ -1,0 +1,37 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		1376 2390 2408 3263 3351 4077 4568 4861 6485 6775 8597 9691 10916 10940 10961 10980 10984 11017 11018 11050 
+	}
+	resources={
+		steel=10
+		aluminium=4
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			10940 = {
+                naval_base = 1
+            }
+		}
+		
+		victory_points = {
+			4861 10
+		}
+		
+		victory_points = {
+			2390 5
+		}
+
+
+	}
+	
+	
+	manpower=1200000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=99
+	name="STATE_99"
+	provinces={
+		5969 11152 11184 
+	}
+	
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		
+		victory_points = {
+			11152 50
+		}
+
+	}
+	
+	
+	manpower=5500000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

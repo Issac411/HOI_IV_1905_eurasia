@@ -1,0 +1,23 @@
+state={
+	id=276
+	name="STATE_276"
+	provinces={
+		190 1622 3973 3999 4315 4522 6361 6458 9286 10510 10572 10575 
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+		victory_points = {
+			10572 5
+		}
+	}
+	
+	manpower=428500
+	state_category = pastoral	
+	buildings_max_level_factor=1.000
+}

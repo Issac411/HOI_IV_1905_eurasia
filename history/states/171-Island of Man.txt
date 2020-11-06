@@ -1,0 +1,21 @@
+state={
+	id=171
+	name="STATE_171"
+	provinces={
+		7588 10983 
+	}
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			7588 = {
+				naval_base=2
+			}
+		}
+	}
+	
+	manpower=43500
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=246
+	name="STATE_246"
+	provinces={
+		4453 5307 6387 7638 8383 8922 9334 12426 12454 12478 12496 12607 
+	}
+	history = {
+		add_core_of = GRE
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		
+	}
+	
+	manpower=760000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

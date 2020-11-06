@@ -1,0 +1,30 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		1796 7630 8162 9312 9367 11307 11364 11406 11417 
+	}
+	resources={
+		chromium = 4
+		tungsten = 4
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			9372 5
+		}
+		
+
+
+	}
+	
+	
+	manpower=425000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

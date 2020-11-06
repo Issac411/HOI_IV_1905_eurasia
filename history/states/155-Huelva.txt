@@ -1,0 +1,29 @@
+state={
+	id=155
+	name="STATE_155"
+	provinces={
+		4296 4376 9485 13039 
+	}
+	
+	resources={
+		tungsten = 4
+	}
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 2
+		}
+
+
+		victory_points = {
+			13039 3
+		}				
+				
+		
+	}
+	
+	manpower=236000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

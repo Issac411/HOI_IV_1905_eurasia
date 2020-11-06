@@ -1,0 +1,28 @@
+
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		2293 2787 2938 4179 4226 4635 6671 9751 10209 12488 12525 12549 12601 12632 12648 12652 12679 
+	}
+	resources={
+		steel=2
+		oil = 4
+		tungsten=4
+	}
+	history={ 
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+		victory_points = {
+			12632 5
+		}
+	}
+	manpower=624500
+	state_category = rural	
+	buildings_max_level_factor=1.000
+}

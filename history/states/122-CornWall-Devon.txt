@@ -1,0 +1,27 @@
+state={
+	id=122
+	name="STATE_122"
+	provinces={
+		5239 9006 11356 11381 11395 11421 11446 11478 
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 5
+			dockyard = 2
+			industrial_complex = 1
+			11421 = {
+                naval_base = 2
+            }
+		}	
+	
+	Victory_points = {
+		11421 5
+	}
+	}
+	manpower=1378000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

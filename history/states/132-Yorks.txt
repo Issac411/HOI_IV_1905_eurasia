@@ -1,0 +1,30 @@
+
+state={
+	id=132
+	name="STATE_132"
+	provinces={
+		3542 4874 6195 7277 10975 11015 11016 
+	}
+	
+	resources={
+		steel=10
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}	
+		
+		Victory_points = {
+			11015 5
+		}
+	}
+	manpower=1250000
+	state_category = rural
+	
+	manpower=1850000
+	buildings_max_level_factor=1.000
+}

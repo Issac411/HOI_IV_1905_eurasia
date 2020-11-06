@@ -1,0 +1,37 @@
+state={
+	id=59
+	name="STATE_59"
+	provinces={
+		1543 3601 4130 4864 6348 7878 11954 11985 11992 12026 
+	}
+	resources={
+		steel=4
+		aluminium=8
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			infrastructure = 3
+			11985 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			11985 20
+		}
+		
+		victory_points = {
+			11992 3
+		}
+		
+
+	}
+	
+	
+	manpower=2238500
+	state_category = town
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,1449 @@
+
+
+#
+#state={
+#	id=2
+#	name="Finistère"
+#	provinces={
+#		4638 11074 11081
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			industrial_complex = 1
+#			4638 = {
+#                naval_base = 5
+#            }
+#            11074 = {
+#                naval_base = 2
+#            }
+#		}
+#		
+#		victory_points = {
+#			11074 1
+#		}
+#
+#
+#		
+#		victory_points = {
+#			4638 20
+#		}
+#
+#
+#	}
+#	
+#	manpower=330000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=3
+#	name="Côte d'Amor"
+#	provinces={
+#		8055 8984 7909 11036 11009 4299
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#            7909 = {
+#                naval_base = 2
+#            }
+#		}
+#
+#		victory_points = {
+#			7909 2
+#		}
+#	}
+#	
+#	manpower=275000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=4
+#	name="Morbihan"
+#	provinces={
+#		11060 5920 3670 8362 4893  
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#	}
+#	
+#	manpower=310660
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#
+#state={
+#	id=5
+#	name="loire Atlantique"
+#	provinces={
+#		7233 5713 9618 9523 11147
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			7233 = {
+#                        naval_base = 3
+#                    }
+#		}
+#
+#
+#
+#		victory_points = {
+#			5713 5
+#		}
+#		
+#	}
+#	
+#	manpower=327000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=6
+#	name="Pays de Loire nord"
+#	provinces={
+#		9908 11031 7427 5130 3715 3122
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			industrial_complex = 1
+#		}
+#		
+#		victory_points = {
+#			7427 1
+#		}
+#	}
+#	
+#	manpower=337000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=7
+#	name="Manche-Calvados"
+#	provinces={
+#		10984 4043 8323 5561 3978
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			industrial_complex = 2
+#			8323 = {
+#                        naval_base = 3
+#                    }
+#		}
+#		
+#		victory_points = {
+#			8323 10
+#		}
+#	}
+#	
+#	manpower=1427000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=8
+#	name="Orne-Eure"
+#	provinces={
+#		9244 4404 9373 11017 10957 7954 4275
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=1344500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=9
+#	name="Seine-Maritime"
+#	provinces={
+#		5616 4182 9593 5899
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			4182 = {
+#                naval_base = 4
+#            }
+#
+#		}
+#
+#        victory_points = {
+#            4182 10
+#        }
+#
+#	}
+#
+#
+#	
+#	resources={
+#		steel=8
+#	}
+#	
+#	manpower=497000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=10
+#	name="Vendée"
+#	provinces={
+#		11172 8583 11198 8854 6367 11215
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		8854    3
+#		}
+#	}
+#	
+#	resources={
+#		aluminium=12
+#	}
+#	
+#	manpower=482177
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=11
+#	name="Ile-de-France"
+#	provinces={
+#		8720 9663 7178 2174 11003 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#			industrial_complex = 4
+#			arms_factory = 4
+#		}
+#		
+#		victory_points = {
+#			8720 50
+#		}
+#	}
+#	
+#	manpower=8100000
+#	buildings_max_level_factor=1.000
+#	state_category = metropolis
+#}
+#
+#
+#state={
+#	id=12
+#	name="Loire"
+#	provinces={
+#		11102 9187 2171 11137 11121 11144 11161 11160
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#		
+#		victory_points = {
+#			9187 1 
+#		}
+#	}
+#	
+#	manpower=430000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=13
+#	name="Charentes"
+#	provinces={
+#		7555 11239 1151 2442 11284 8562 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		7555    10
+#		}
+#
+#		Victory_points = {
+#		2442    5
+#		}
+#	}
+#	
+#	manpower=737000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=14
+#	name="Gironde"
+#	provinces={
+#		7841 724 11307 11321 11327 7723 7859 8344 1863 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			1863 = {
+#                naval_base = 3
+#			}
+#		}
+#
+#		Victory_points = {
+#		    7841 3
+#		}
+#		
+#		victory_points = {
+#			1863 20
+#		}
+#		
+#		
+#	}
+#	
+#	manpower=1566666
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=15
+#	name="Landes"
+#	provinces={
+#		11422 5852 8649 9726 8853 11503 508
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#        Victory_points = {
+#            8853 3
+#        }
+#	}
+#
+#
+#	
+#	manpower=78500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#
+#state={
+#	id=16
+#	name="Pyrénées ouest"
+#	provinces={
+#		3403 11562 11569 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#		}
+#         Victory_points = {
+#            3403 5
+#         }
+#	}
+#
+#
+#
+#	resources ={
+#		steel=12
+#		tungsten = 7
+#	}
+#	
+#	manpower=298000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=17
+#	name="Pyrénées centrales"
+#	provinces={
+#		11622 9375 11580 6975
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	resources={
+#		steel=8
+#		tungsten = 5
+#	}
+#	
+#	manpower=277500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=18
+#	name="Andore"
+#	provinces={
+#		9683
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#	}
+#	
+#	resources={
+#		steel=3
+#	}
+#	
+#	manpower=77000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=19
+#	name="Pyrénées Est"
+#	provinces={
+#		11605 11647 5146 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		5146 = {
+#		    naval_base = 2
+#		}
+#		}
+#        victory_points = {
+#            5146 10
+#        }
+#	}
+#
+#
+#	
+#	resources={
+#		steel=5
+#	}
+#	
+#	manpower=392000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#
+#state={
+#	id=20
+#	name="Aude"
+#	provinces={
+#		9171 11588 11563 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=210650
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=21
+#	name="Garonne"
+#	provinces={
+#		5904 8355 4325 11519 11483 6106 11458 3984 11376 1505
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#		
+#		victory_points = {
+#			5904 3
+#		}
+#		
+#	}
+#	
+#	resources={
+#		aluminium=4
+#	}
+#	
+#	manpower=1179500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=22
+#	name="Tarn-Aveyron"
+#	provinces={
+#		11511 696 11459 4874 11480 7995
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=301500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=23
+#	name="Hérault"
+#	provinces={
+#		5427 11537 6171 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#        Victory_points = {
+#            6171 20
+#        }
+#	}
+#
+#
+#	
+#	manpower=198500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=24
+#	name="Lot et Dordogne"
+#	provinces={
+#		11303 3713 8950 9778 11353 11376 11322 11392 2391 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		11322   3
+#		}
+#	}
+#	
+#	manpower=1192000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=25
+#	name="Gard"
+#	provinces={
+#		7696 11481 11460 9153 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=362000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=26
+#	name="Provence"
+#	provinces={
+#		11512 3554 3228 7489 2946 11497
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#            3554 = {
+#                naval_base = 6
+#            }
+#            3228 = {
+#                naval_base = 4
+#            }
+#		}
+#		
+#		victory_points = {
+#			3554 20
+#		}
+#
+#		victory_points = {
+#            3228 3
+#        }
+#
+#	}
+#	
+#	manpower=335675
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=27
+#	name="Côte d'Azur"
+#	provinces={
+#		11574 11550 11527
+#		}
+#
+#
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#        victory_points = {
+#            11550 5
+#        }
+#	}
+#	
+#	manpower=137850
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=28
+#	name="Nice"
+#	provinces={
+#		11487
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#            11487 = {
+#                naval_base = 3
+#            }
+#		}
+#		
+#		victory_points = {
+#			11487 3
+#		}
+#
+#	}
+#	
+#	manpower=117000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=29
+#	name="Alpes centrales"
+#	provinces={
+#		4277 11436 3115 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#		}
+#	}
+#	
+#	resources={
+#		steel=32
+#		tungsten = 10 
+#	}
+#	
+#	manpower=198500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=30
+#	name="Savoie"
+#	provinces={
+#		11313 11291 4964 11312
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#		}
+#	}
+#	
+#	resources={
+#		steel=12
+#	}
+#	
+#	manpower=280000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=31
+#	name="Mayenne et Sarthe"
+#	provinces={
+#		6239 11056 5048 11124 7299 6396 4498 11033
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#		
+#		victory_points = {
+#			6239 1 
+#		}
+#		
+#		victory_points = {
+#			11124 3
+#		}
+#	}
+#	
+#	manpower=485600
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=32
+#	name="Eure et Loiret"
+#	provinces={
+#		10988 10996 11027 7799 11061 11076 8156 9560
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#		11076   3
+#		}
+#	}
+#	
+#	resources={
+#		aluminium=10
+#	}
+#	
+#	manpower=1233610
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=33
+#	name="Grand Rhône"
+#	provinces={
+#		3533 7889 11343 11378 11370 11339 11305 11308
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#		7889 3
+#		}
+#	}
+#	
+#	manpower=230000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=34
+#	name="Haute Savoie"
+#	provinces={
+#		11279 11240 11264 11285
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points ={
+#		    11285 3
+#		}
+#	}
+#	
+#	resources={
+#		steel=6
+#	}
+#	
+#	manpower=66250
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=35
+#	name="Auvergne"
+#	provinces={
+#		9110 4572 9828 11404 11356 58 5393 11360
+#		}
+#		
+#	resources={
+#		steel=8
+#		aluminium=4
+#		tungsten = 10
+#	}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=833777
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=36
+#	name="limousin"
+#	provinces={
+#		6265 624 11377 11359 8597 8194
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#	}
+#	
+#	manpower=345600
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=37
+#	name="Indre et Loire"
+#	provinces={
+#		5005 4621 11185 11211 11174 979 2259 11116 2151
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#		2151 3
+#		}
+#	}
+#	
+#	manpower=1545555
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=38
+#	name="Centre Sud"
+#	provinces={
+#		9723 5754 5186 8462	3569 6601 11304
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		    8462 10
+#		}
+#
+#		Victory_points = {
+#            9723 5
+#        }
+#
+#        Victory_points = {
+#            6601 3
+#        }
+#
+#	}
+#	
+#	resources={
+#		aluminium=4
+#	}
+#	
+#	manpower=781500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=39
+#	name="Picardie"
+#	provinces={
+#		9002 10910 10911 10876 6662 10880 4201 10851
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#		    10910   5
+#		}
+#	}
+#	
+#	resources={
+#		steel=5
+#	}
+#	
+#	manpower=1199500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=40
+#	name="Nord pas de Calais"
+#	provinces={
+#		10809 5610 10779 10780 8650 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#			industrial_complex = 2
+#			10779 = {
+#			    naval_base = 4
+#			}
+#			10780 = {
+#			    naval_base = 2
+#			}
+#		}
+#        victory_points = {
+#            10779 5
+#        }
+#
+#        victory_points = {
+#            10780 20
+#        }
+#	}
+#
+#
+#	
+#	resources={
+#		steel=52
+#	}
+#	
+#	manpower=2256250
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=41
+#	name="Champagne"
+#	provinces={
+#		10940 6441 9596 8361 9252 10933 4251 10915 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		10933   5
+#		}
+#
+#		Victory_points = {
+#		9596   3
+#		}
+#
+#	}
+#	
+#	resources={
+#		aluminium=8
+#	}
+#	
+#	manpower=401500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=42
+#	name="Ardennes"
+#	provinces={
+#		5467 6222 10827 10877 3259 10883 10855 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#		}
+#
+#        victory_points = {
+#            10827 20
+#        }
+#	}
+#
+#
+#	
+#	manpower=787000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=43
+#	name="Yonne et Aube"
+#	provinces={
+#		10997 6623 11043 2166 11067 2521 6420 4126 4076 9795
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#			industrial_complex = 1
+#		}
+#	}
+#	
+#	manpower=1245000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=44
+#	name="Puy de Dome"
+#	provinces={
+#		1499 6760 11323 11281 4562 4557 11249 11212 11253
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 3
+#		}
+#
+#		Victory_points = {
+#		11323 5
+#		}
+#	}
+#	
+#	resources={
+#		steel=24
+#		tungsten = 5 
+#	}
+#	
+#	manpower=1198000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=45
+#	name="Rhône-Ain"
+#	provinces={
+#		8230 8483 11257 11290 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#
+#		Victory_points = {
+#		    8230    20
+#		}
+#	}
+#	
+#	manpower=287500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=46
+#	name="Bourgogne Sud"
+#	provinces={
+#		11175 2769 11104 8192 6452 5638 4778 11196 11166 408 5964
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#
+#		Victory_points = {
+#		11196 10
+#		}
+#	}
+#	
+#	manpower=2310000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=47
+#	name="Franche-Comté"
+#	provinces={
+#		11220 11191 9058 7272 9173 8614
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#
+#		Victory_points ={
+#		9058 1
+#		}
+#	}
+#	
+#	manpower=855000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=48
+#	name="Haute Marne"
+#	provinces={
+#		10966 8246 6603 7900
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#		}
+#	}
+#	
+#	manpower=300000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=49
+#	name="Meuse"
+#	provinces={
+#		7671 10930 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#		10930 5
+#		}
+#
+#	}
+#	
+#	resources={
+#		steel=10
+#	}
+#	
+#	manpower=720000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#
+#state={
+#	id=51
+#	name="Bas Rhin"
+#	provinces={
+#		10979 11011 8719 11001
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#
+#		Victory_points ={
+#		11011 20
+#		}
+#
+#		Victory_points ={
+#            8719 3
+#        }
+#	}
+#	
+#	resources={
+#		steel=12
+#	}
+#	
+#	manpower=217800
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=52
+#	name="Lembach"
+#	provinces={
+#		6418 10972
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#			industrial_complex = 1
+#		}
+#	}
+#	
+#	manpower=197500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=53
+#	name="Lorraine nord"
+#	provinces={
+#		9292 10936 10928 7904 3399 2974
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#		}
+#
+#		Victory_points = {
+#            7904   10
+#        }
+#	}
+#	
+#	resources={
+#		steel=34
+#		aluminium=2
+#		tungsten = 2
+#	}
+#	
+#	manpower=235000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=54
+#	name="Nancy"
+#	provinces={
+#		11000 11010 7916
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 5
+#			industrial_complex = 1
+#		}
+#
+#		Victory_points = {
+#		11000   20
+#		}
+#	}
+#	
+#	resources={
+#		steel=4
+#	}
+#	
+#	manpower=432000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=55
+#	name="Sud de l'alsace"
+#	provinces={
+#		2934 11127 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#
+#	Victory_points = {
+#	    11127 3
+#	}
+#	
+#	resources={
+#		steel=24
+#	}
+#	
+#	manpower=57000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=56
+#	name="Bourgogne est"
+#	provinces={
+#		8096 6445 9255 11088 
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 4
+#		}
+#	}
+#	
+#	manpower=839500
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=57
+#	name="Grand est"
+#	provinces={
+#		 9834 11048 6688 9423 8965
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 6
+#			industrial_complex = 2
+#		}
+#	}
+#	
+#	manpower=321000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#
+#state={
+#	id=58
+#	name="Corse"
+#	provinces={
+#		440 5996
+#		}
+#	
+#	history={ add_core_of = FRA
+#		owner = FRA
+#		buildings = {
+#			infrastructure = 2
+#			industrial_complex = 1
+#		}
+#	}
+#	
+#	manpower=117000
+#	buildings_max_level_factor=1.000
+#	state_category = rural
+#}
+#

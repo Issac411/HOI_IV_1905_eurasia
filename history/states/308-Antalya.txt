@@ -1,0 +1,20 @@
+state={
+	id=308
+	name="STATE_308"
+	provinces={
+		3552 4324 6784 9106 13095 13112 13159 13184 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+		}
+		
+		
+		
+	}
+	manpower=230000
+	state_category = rural	
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,38 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		4401 7377 9627 12447 12469 12494 12506 12591 
+	}
+	resources={
+		steel=4
+		aluminium=2
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			7377 = {
+				naval_base = 4
+			}
+			12506= {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			7377 20
+		}
+		
+		victory_points = {
+			12506 10
+		}	
+	}
+	
+	
+	manpower=3450000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

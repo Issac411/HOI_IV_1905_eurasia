@@ -1,0 +1,20 @@
+state={
+	id=312
+	name="STATE_312"
+	provinces={
+		3676 6291 7595 7993 9405 9541 10315 12436 12492 12531 12541 12575 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+		
+	}
+	manpower=126000
+	state_category = pastoral	
+	buildings_max_level_factor=1.000
+}

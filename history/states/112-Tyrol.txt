@@ -1,0 +1,26 @@
+
+state={
+	id=112
+	name="STATE_112"
+	provinces={
+		3500 6778 8458 9021 9544 9907 9986 11766 11807 
+	}
+	resources={
+		steel=4
+	}
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+		}
+		
+		Victory_points = {
+			3500 5
+		}
+	}
+	
+	manpower=642700
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

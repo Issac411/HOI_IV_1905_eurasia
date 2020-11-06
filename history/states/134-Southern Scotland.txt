@@ -1,0 +1,33 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		847 3362 4640 5463 6353 8909 9114 
+	}
+
+	resources={
+		steel=6
+		tungsten=4
+	}
+
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}	
+		
+		Victory_points = {
+			6353 20
+		}
+		
+		Victory_points = {
+			3362 10
+		}
+	}
+	manpower=2350000
+	state_category = rural
+	
+	buildings_max_level_factor=1.000
+}

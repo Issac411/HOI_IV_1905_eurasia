@@ -1,0 +1,33 @@
+
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		3991 6749 8207
+	}
+	
+	resources={
+		steel=42
+	}
+	
+	history = {
+		add_core_of = FRA
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		
+		victory_points = {
+			8207 5
+		
+		}
+	}
+	
+	
+	manpower=227500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=136
+	name="STATE_136"
+	provinces={
+		3444 4776 5405 7197 7584 10658 10708 10728 10829 15872 15875 
+	}
+	
+	resources={
+		steel=4
+		aluminium=4
+		tungsten=4
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}	
+		
+	}
+	manpower=227000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

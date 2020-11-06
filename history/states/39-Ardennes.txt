@@ -1,0 +1,27 @@
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		11524 11528 11555 11557 9654 11576 11586  
+	}
+
+	history = {
+		add_core_of = FRA
+		owner = FRA	
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		
+		
+		victory_points = {
+			11576 3
+		}
+		
+	}
+	
+	manpower=87500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

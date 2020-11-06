@@ -1,0 +1,30 @@
+state={
+	id=53
+	name="STATE_53"
+	provinces={
+		8558 11824 11835 11862 
+	}
+	resources={
+		steel=4
+		aluminium=12
+	}
+	history={ 
+		add_core_of = SWI
+		owner = SWI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11831 3
+		}
+
+
+	}
+	
+	
+	manpower=205500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		1247 1424 4328 5849 8099 8130 8807 8987 10873 10918 10922 10951 10960 10966 10991 
+	}
+	
+	resources={
+		aluminium=2
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			10966 10
+		}		
+		
+	}
+	manpower=785000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

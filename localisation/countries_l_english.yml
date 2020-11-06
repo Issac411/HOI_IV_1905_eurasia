@@ -1,0 +1,103 @@
+﻿l_english:
+ TES_fascism:0 "Microwave Cooking for One"
+ TES_fascism_DEF:0 "Microwave Cooking for One"
+ TES_democratic:0 "Microwave Cooking for One"
+ TES_democratic_DEF:0 "Microwave Cooking for One"
+ TES_neutrality:1 "Microwave Cooking for One"
+ TES_neutrality_DEF:1 "Microwave Cooking for One"
+ TES_communism:0 "Microwave Cooking for One"
+ TES_communism_DEF:0 "Microwave Cooking for One"
+ TES_fascism_ADJ:0 "Microwave Cooking for One"
+ TES_democratic_ADJ:0 "Microwave Cooking for One"
+ TES_neutrality_ADJ:0 "Microwave Cooking for One"
+ TES_communism_ADJ:0 "Microwave Cooking for One"
+ TES:0 "Microwave Cooking for One"
+ TES_DEF:0 "Microwave Cooking for One"
+ TES_ADJ:0 "Microwave Cooking for One"
+ LUX:0 "Luxembourg"
+ LUX_DEF:0 "Luxembourg"
+ LUX_ADJ:0 "Luxembourgeoise"
+ 
+FRA:0 "France"
+FRA_DEF:0 "République Française"
+FRA_ADJ:0 "Française"
+
+GER:0 "KaiserReich Allemand"
+GER_DEF:0 "Kaiserreich Allemand"
+GER_ADJ:0 "Allemande"
+
+ASH:0 "Autriche-Hongrie"
+ASH_DEF:0 "Autriche-Hongrie"
+ASH_ADJ:0 "Austro-Hongroise"
+
+ENG:0 "Grande Bretagne"
+ENG_DEF:0 "Grande Bretagne"
+ENG_ADJ:0 "de la couronne Britanique"
+
+SPA:0 "Espagne"
+SPA_DEF:0 "Royaume d'Espagne"
+SPA_ADJ:0 "Espagnole"
+
+POR:0 "Portugal"
+POR_DEF:0 "Royaume du Portugal"
+POR_ADJ:0 "Portugaise"
+
+IRE:0 "Irelande"
+IRE_DEF:0 "Irelande"
+IRE_ADJ:0 "Irelandaise"
+
+SER:0 "Serbie"
+SER_DEF:0 "Serbie"
+SER_ADJ:0 "Serbe"
+
+TUR_neutrality:0 "Empire Ottoman"
+TUR_DEF_neutrality:0 "Empire Ottoman"
+TUR_ADJ_neutrality:0 "Ottomane"
+
+TUR:0 "Turquie"
+TUR_DEF:0 "Turquie"
+TUR_ADJ:0 "Turque"
+
+GRE:0 "Grèce"
+GRE_DEF:0 "Grèce"
+GRE_ADJ:0 "Grecque"
+
+MON:0 "Montenegro"
+MON_DEF:0 "Montenegro"
+MON_ADJ:0 "Montenegroise"
+
+ALB:0 "Albanie"
+ALB_DEF:0 "Albanie"
+ALB_ADJ:0 "Albanaise"
+
+BUL:0 "Bulgarie"
+BUL_DEF:0 "Bulgarie"
+BUL_ADJ:0 "Bulgare"
+
+ROM:0 "Roumanie"
+ROM_DEF:0 "Roumanie"
+ROM_ADJ:0 "Roumaine"
+
+RUS:0 "Empire de Russie"
+RUS_DEF:0 "Empire Russe"
+RUS_ADJ:0 "Russe"
+
+DEN:0 "Danemark"
+DEN_DEF:0 "Danemark"
+DEN_ADJ:0 "Danoise"
+
+HOL:0 "Pays-bas"
+HOL_DEF:0 "Pays-bas"
+HOL_ADJ:0 "Hollandaise"
+
+BEL:0 "Belgique"
+BEL_DEF:0 "Belgique"
+BEL_ADJ:0 "Belge"
+
+SWI:0 "Suisse"
+SWI_DEF:0 "Suisse"
+SWI_ADJ:0 "Suisse"
+
+ITA:0 "Royaume Italien"
+ITA_DEF:0 "Italie"
+ITA_ADJ:0 "Italien"

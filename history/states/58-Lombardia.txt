@@ -1,0 +1,26 @@
+
+state={
+	id=58
+	name="STATE_58"
+	provinces={
+		2878 4019 5765 7122 8611 8916 9847 11941 11952 11959 11963 11978 11984 11996 12010 12025 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			8916 20
+		}
+
+	}
+	
+	
+	manpower=3222222
+	state_category = town
+	buildings_max_level_factor=1.000
+}

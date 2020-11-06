@@ -1,0 +1,38 @@
+state={
+	id=162
+	name="STATE_162"
+	provinces={
+		348 6341 7247 7541 9695 10210 12388 12424 12472 12500 12501 
+	}
+	
+	
+	resources={
+		tungsten=90
+	}
+	
+	history = {
+		add_core_of = POR
+		owner = POR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			12500 = {
+				naval_base = 3
+			}
+			10210 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			12500 20
+		}	
+
+					
+		
+	}
+	
+	manpower=1222000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

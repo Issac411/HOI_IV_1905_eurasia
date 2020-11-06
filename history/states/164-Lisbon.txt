@@ -1,0 +1,32 @@
+state={
+	id=164
+	name="STATE_164"
+	provinces={
+		6647 8766 12791 12802 
+	}
+	
+	resources={
+		chromium=10
+	}
+	
+	history = {
+		add_core_of = POR
+		owner = POR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			5766 = {
+				naval_base = 3
+			}
+		}
+		
+		victory_points = {
+			5766 10
+		}			
+		
+	}
+	
+	manpower=1800000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

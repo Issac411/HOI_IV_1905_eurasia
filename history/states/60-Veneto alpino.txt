@@ -1,0 +1,24 @@
+state={
+	id=60
+	name="STATE_60"
+	provinces={
+		3907 5003 11929 
+	}
+	resources={
+		steel=3
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 2
+		}
+		
+
+	}
+	
+	
+	manpower=98200
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

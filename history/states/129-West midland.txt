@@ -1,0 +1,29 @@
+
+state={
+	id=129
+	name="STATE_129"
+	provinces={
+		5408 6123 7565 9040 9240 9943 11077 11087 11110 11138 
+	}
+	
+	resources={
+		steel=24
+		aluminium=5
+	}
+	
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}	
+	
+	Victory_points = {
+		11138 20
+	}
+	}
+	manpower=2227000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

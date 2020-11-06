@@ -1,0 +1,30 @@
+state={
+	id=88
+	name="STATE_88"
+	provinces={
+		61 3514 6027 7308 9069 10080 11036 11071 11083 11114 
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+			6027 = {
+				naval_base = 3
+			}
+			dockyard = 2
+		}
+		
+		victory_points = {
+			6027 5
+		}
+		
+
+
+	}
+	
+	
+	manpower=685000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

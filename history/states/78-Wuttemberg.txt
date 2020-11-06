@@ -1,0 +1,24 @@
+
+state={
+	id=78
+	name="STATE_78"
+	provinces={
+		1558 2675 3304 4586 4633 5726 7458 8498 8707 9900 11540 11578 11579 11590 11595 11600 11611 11614 11635 11647 11678 11686 11717 11765 
+	}
+	history = {
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11611 10
+		}
+		
+	}
+	manpower=2280000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

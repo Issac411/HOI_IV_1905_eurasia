@@ -1,0 +1,26 @@
+
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		12108 12130 12159 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			dockyard = 1
+			infrastructure = 3
+
+		}
+
+		victory_points = {
+			12108 10
+		}
+	}
+	
+	
+	manpower=428500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

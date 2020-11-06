@@ -1,0 +1,24 @@
+state={
+	id=208
+	name="STATE_208"
+	provinces={
+		86 2064 3611 6521 6770 7428 8802 9291 11719 11732 11733 11745 11756 11781 
+	}
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 4
+		}
+		
+		
+		Victory_points = {
+			11719 5
+		}
+		
+	}
+	
+	manpower=8275000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=85
+	name="STATE_85"
+	provinces={
+		373 2504 4867 5701 6230 6552 6628 7058 7759 9200 9475 11221 11243 11254 11260 11303 11306 11317 11327 11351 11365 11366 11393 
+	}
+	resources={
+		steel=24
+		aluminium=12
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		
+		victory_points = {
+			11365 10
+		}
+
+		victory_points = {
+			6652 10
+		}
+		victory_points = {
+			2504 20
+		}
+		victory_points = {
+			11306 10
+		}
+	}
+	
+	
+	manpower=3580000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

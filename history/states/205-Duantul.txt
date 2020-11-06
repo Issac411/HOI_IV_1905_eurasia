@@ -1,0 +1,29 @@
+state={
+	id=205
+	name="STATE_205"
+	provinces={
+		1406 4192 6496 7413 7799 8650 9486 11796 11797 11872 11897 
+	}
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+		Victory_points = {
+			7799 10
+		}
+		
+		Victory_points = {
+			9486 3
+		}
+		
+	}
+	
+	manpower=2000500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

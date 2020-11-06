@@ -1,0 +1,53 @@
+state={
+	id=163
+	name="STATE_163"
+	provinces={
+		830 1986 2691 2982 3191 3211 3595 9133 10067 12534 12552 12674 12675 12703 12727 12786 
+	}
+	
+	
+	resources={
+		tungsten=64
+	}
+	
+	history = {
+		add_core_of = POR
+		owner = POR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 2
+			830 = {
+				naval_base = 1
+			}
+			1986 = {
+				naval_base = 1
+			}
+			12786 = {
+				naval_base = 6
+			}
+		}
+		
+		victory_points = {
+			830 3
+		}	
+
+		victory_points = {
+			3211 5
+		}	
+
+		victory_points = {
+			1986 3
+		}	
+
+		victory_points = {
+			12786 50
+		}			
+		
+	}
+	
+	manpower=2544000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

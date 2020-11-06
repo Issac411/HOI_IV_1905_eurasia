@@ -1,0 +1,24 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		4036 4317 6599 8021 9458 11244 11271 11288 
+	}
+	manpower=227500
+	
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			6599 3
+		}
+	}
+	
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=185
+	name="STATE_185"
+	provinces={
+		7532 9615 12285 12291 12325 12364 
+	}
+	
+	
+	history = {
+		add_core_of = MON
+		owner = MON
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			12325 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			12325 5
+		}
+		
+	}
+	
+	manpower=866000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

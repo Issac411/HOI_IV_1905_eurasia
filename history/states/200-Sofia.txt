@@ -1,0 +1,25 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		6895 12229 12282 
+	}
+	history = {
+		add_core_of = BUL
+		owner = BUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		victory_points = {
+			12282 50
+		}
+		
+	
+	}
+	
+	manpower=928500
+	state_category = town
+	buildings_max_level_factor=1.000
+}

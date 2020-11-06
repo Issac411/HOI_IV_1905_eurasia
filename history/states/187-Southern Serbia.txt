@@ -1,0 +1,28 @@
+
+state={
+	id=187
+	name="STATE_187"
+	provinces={
+		1735 2738 6869 7679 12321 
+	}
+	
+	
+	history = {
+		add_core_of = SER
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			1735 5
+		}
+		
+		
+	}
+	
+	manpower=187500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=183
+	name="STATE_183"
+	provinces={
+		336 1329 2617 3687 4068 5927 6652 7772 7934 8844 12127 12145 12180 12221 12264 12308 
+	}
+	resources={
+		aluminium=2
+	}
+	history = {
+		add_core_of = SER
+		owner = SER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			12221 5
+		}
+		
+		
+	}
+	
+	manpower=650000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

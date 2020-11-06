@@ -1,0 +1,29 @@
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		1944 2567 3540 6694 7794 9567 12367 12369 12415 
+	}
+	resources={
+		steel=8
+		aluminium=4
+	}
+	
+	
+	history = {
+		add_core_of = SPA
+		owner = SPA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			12415 3
+		}		
+		
+	}
+	manpower=727500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

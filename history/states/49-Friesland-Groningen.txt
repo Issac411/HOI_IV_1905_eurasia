@@ -1,0 +1,29 @@
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		1393 2392 5283 5743 11065 11097 11122 15883 15884 
+	}
+	history={ 
+		add_core_of = HOL
+		owner = HOL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			2392 5
+		}
+		
+		victory_points = {
+			5283 3
+		}
+		
+
+	}
+	
+	manpower=627500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

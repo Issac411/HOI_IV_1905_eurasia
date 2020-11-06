@@ -1,0 +1,32 @@
+state={
+	id=182
+	name="STATE_182"
+	provinces={
+		1053 5319 6909 7010 8478 9103 12057 12119 12146 12157 
+	}
+	resources={
+		steel=4
+	}
+	history = {
+		add_core_of = SER
+		owner = SER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		
+		victory_points = {
+			12057 30
+		}
+		
+		victory_points = {
+			1053 5
+		}
+		
+	}
+	
+	manpower=1700000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

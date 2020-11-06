@@ -1,0 +1,27 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		3085 3286 4428 9374 12370 12386 12405 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+			3286 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			9374 5
+		}
+		
+	}
+	
+	
+	manpower=458600
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=186
+	name="STATE_186"
+	provinces={
+		1699 2493 4835 9448 
+	}
+	
+	history = {
+		add_core_of = SER
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		
+		
+	}
+	
+	manpower=117500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

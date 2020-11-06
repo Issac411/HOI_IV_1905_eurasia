@@ -1,0 +1,631 @@
+﻿l_english:
+ VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! victory points = §Y$POINTS$§!"
+####################################
+# FRANCE
+############################################
+ VICTORY_POINTS_8720:0 "Paris"
+ VICTORY_POINTS_5713:0 "Nantes"
+ VICTORY_POINTS_11487:0 "Nice"
+ VICTORY_POINTS_1863:0 "Bordeaux"
+ VICTORY_POINTS_5904:0 "Toulouse"
+ VICTORY_POINTS_3554:0 "Marseille"
+ VICTORY_POINTS_11074:0 "Quimper"
+ VICTORY_POINTS_3228:0 "Toulon"
+ VICTORY_POINTS_11550:0 "Cannes"
+ VICTORY_POINTS_6171:0 "Montpellier"
+ VICTORY_POINTS_5146:0 "Perpignan"
+ VICTORY_POINTS_12224:0 "Bayonne"
+ VICTORY_POINTS_8853:0 "Dax"
+ VICTORY_POINTS_7841:0 "Royan"
+ VICTORY_POINTS_7555:0 "La Rochelle"
+ VICTORY_POINTS_8854:0 "La Roche-sur-Yon"
+ VICTORY_POINTS_6171:0 "Montpellier"
+ VICTORY_POINTS_5146:0 "Perpignan"
+ VICTORY_POINTS_3403:0 "Bayonne"
+ VICTORY_POINTS_7841:0 "Royan"
+ VICTORY_POINTS_4636:0 "Brest"
+ VICTORY_POINTS_7909:0 "Saint-Brieuc"
+ VICTORY_POINTS_7427:0 "Rennes"
+ VICTORY_POINTS_8323:0 "Cherbourg"
+ VICTORY_POINTS_4182:0 "Le Havre"
+ VICTORY_POINTS_10779:0 "Calais"
+ VICTORY_POINTS_10780:0 "Dunkerque"
+ VICTORY_POINTS_10827:0 "Lille"
+ VICTORY_POINTS_10910:0 "Amiens"
+ VICTORY_POINTS_9596:0 "Soissons"
+ VICTORY_POINTS_10933:0 "Reims"
+ VICTORY_POINTS_7904:0 "Metz"
+ VICTORY_POINTS_11011:0 "Strasbourg"
+ VICTORY_POINTS_8719:0 "Mulhouse"
+ VICTORY_POINTS_9187:0 "Cholet"
+ VICTORY_POINTS_2442:0 "Poitiers"
+ VICTORY_POINTS_6239:0 "Le Mans"
+ VICTORY_POINTS_11124:0 "Tours"
+ VICTORY_POINTS_11076:0 "Orléans"
+ VICTORY_POINTS_11322:0 "Périgueux"
+ VICTORY_POINTS_9723:0 "Limoges"
+ VICTORY_POINTS_8462:0 "Clermont-Ferrand"
+ VICTORY_POINTS_11323:0 "Saint-Etienne"
+ VICTORY_POINTS_8230:0 "Lyon"
+ VICTORY_POINTS_7889:0 "Montélimar"
+ VICTORY_POINTS_9058:0 "Lons-Le-Saunier"
+ VICTORY_POINTS_10930:0 "Verdun"
+
+ 
+ 
+ 
+ 
+ VICTORY_POINTS_12255:0 "Tarbes"
+ VICTORY_POINTS_3006:0 "Bordeaux"
+ VICTORY_POINTS_8516:0 "Montpellier"
+ VICTORY_POINTS_8070:0 "Sète"
+ 
+ VICTORY_POINTS_12114:0 "Marmande"
+ VICTORY_POINTS_5722:0 "Toulouse"
+ VICTORY_POINTS_6764:0 "Marseille"
+ VICTORY_POINTS_12246:0 "Toulon"
+ 
+ VICTORY_POINTS_7795:0 "Lens"
+ VICTORY_POINTS_9758:0 "Calais"
+ VICTORY_POINTS_11388:0 "Dunkerque"
+ VICTORY_POINTS_4342:0 "Lille"
+ 
+ VICTORY_POINTS_6832:0 "Orléans"
+ VICTORY_POINTS_670:0 "Blois"
+ VICTORY_POINTS_11801:0 "Tours"
+ VICTORY_POINTS_11817:0 "Nantes"
+ 
+ VICTORY_POINTS_9159:0 "Paris"
+ VICTORY_POINTS_1101:0 "Avallon"
+ VICTORY_POINTS_11866:0 "Dijon"
+ VICTORY_POINTS_9085:0 "Mulhouse"
+ 
+ VICTORY_POINTS_4799:0 "Colmar"
+ VICTORY_POINTS_1234:0 "Strasbourg"
+ VICTORY_POINTS_8207:0 "Metz"
+ VICTORY_POINTS_6046:0 "Nancy"
+ 
+ VICTORY_POINTS_5124:0 "Reims"
+ VICTORY_POINTS_11576:0 "Verdun"
+ VICTORY_POINTS_3287:0 "Rennes"
+ VICTORY_POINTS_10108:0 "Cholet"
+ 
+ VICTORY_POINTS_111:0 "Le Havre"
+ VICTORY_POINTS_4533:0 "La Roche-sur-Yon"
+ 
+ VICTORY_POINTS_6246:0 "Ajaccio"
+ VICTORY_POINTS_12313:0 "Bastia"
+ 
+ VICTORY_POINTS_9991:0 "Poitiers"
+ VICTORY_POINTS_2637:0 "La Rochelle"
+ 
+ VICTORY_POINTS_11533:0 "Luxembourg"
+####################################
+# Swtizerlands
+############################################
+ VICTORY_POINTS_11870:0 "Geneve"
+ VICTORY_POINTS_3915:0 "Montreux"
+ VICTORY_POINTS_11799:0 "Zurich"
+ VICTORY_POINTS_8551:0 "Lugano"
+ VICTORY_POINTS_8275:0 "Bern"
+ VICTORY_POINTS_11831:0 "Chur"
+
+####################################
+# Belgium
+############################################
+ 
+ VICTORY_POINTS_11485:0 "Bastogne"
+ VICTORY_POINTS_11373:0 "Brussels"
+ VICTORY_POINTS_9212:0 "Mons"
+ VICTORY_POINTS_11410:0 "Liège"
+ 
+ VICTORY_POINTS_11341:0 "Ghent"
+ VICTORY_POINTS_11363:0 "Antwerp"
+ VICTORY_POINTS_3985:0 "Ostend"
+####################################
+# Netherlands
+############################################
+ VICTORY_POINTS_4000:0 "Bergen op Zoom"
+ VICTORY_POINTS_1097:0 "Hiversum"
+ VICTORY_POINTS_11199:0 "Amsterdam"
+ VICTORY_POINTS_11226:0 "Rotterdam"
+
+ VICTORY_POINTS_11207:0 "The Hague"
+ VICTORY_POINTS_4500:0 "Eindhoven"
+ VICTORY_POINTS_5918:0 "Maastricht"
+ VICTORY_POINTS_624:0 "Arnhem"
+ VICTORY_POINTS_2392:0 "Groningen"
+ VICTORY_POINTS_5283:0 "Leeuwarden"
+ 
+
+
+ 
+####################################
+# Germany
+############################################
+ VICTORY_POINTS_4861:0 "Stettin"
+ VICTORY_POINTS_2390:0 "Koslin"
+ VICTORY_POINTS_997:0 "Danzig"
+ 
+ VICTORY_POINTS_11344:0 "Breslau"
+ VICTORY_POINTS_7452:0 "Oppeln"
+ VICTORY_POINTS_7561:0 "Sternberger"
+ 
+ 
+ VICTORY_POINTS_8074:0 "Gostingen"
+ VICTORY_POINTS_11011:0 "Posen"
+ VICTORY_POINTS_11032:0 "Mohrungen"
+ 
+ VICTORY_POINTS_10927:0 "Konigsberg"
+ VICTORY_POINTS_9104:0 "Saarbrücken"
+ VICTORY_POINTS_11426:0 "Koblenz"
+ VICTORY_POINTS_9786:0 "Frankfurt"
+ 
+ VICTORY_POINTS_9420:0 "Manheim"
+ VICTORY_POINTS_11611:0 "Stuttgart" 
+ VICTORY_POINTS_11634:0 "Freiburg im breisgau"
+ VICTORY_POINTS_11683:0 "Munich" 
+ 
+ VICTORY_POINTS_11675:0 "Augsburg"
+ VICTORY_POINTS_5265:0 "Nuremberg" 
+ VICTORY_POINTS_11632:0 "Ingolstadt"
+ VICTORY_POINTS_11565:0 "Weiden" 
+ 
+ VICTORY_POINTS_11365:0 "Bonn"
+ VICTORY_POINTS_6652:0 "Dusseldorf" 
+ VICTORY_POINTS_2504:0 "Essen"
+ VICTORY_POINTS_11306:0 "Dortmund" 
+ 
+ VICTORY_POINTS_6027:0 "Wilhelmshaven"
+ VICTORY_POINTS_9423:0 "Bremen" 
+ VICTORY_POINTS_7949:0 "Hamburg"
+ 
+ VICTORY_POINTS_10903:0 "Flensburg"
+ VICTORY_POINTS_882:0 "Schleswig" 
+ VICTORY_POINTS_10976:0 "Rostock"
+ 
+ VICTORY_POINTS_9372:0 "Erfurt"
+ VICTORY_POINTS_11235:0 "Gottigen" 
+ VICTORY_POINTS_837:0 "Magdeburg"
+ 
+ VICTORY_POINTS_11342:0 "Dresden"
+ VICTORY_POINTS_11433:0 "Plauen" 
+ VICTORY_POINTS_8237:0 "Chemnitz"
+ 
+ VICTORY_POINTS_4667:0 "Cottbus"
+ VICTORY_POINTS_11152:0 "Berlin"
+ 
+ 
+ ####################################
+# Italy
+############################################
+ 
+ VICTORY_POINTS_2184:0 "Trento"
+ VICTORY_POINTS_8076:0 "Bozen"
+ 
+ VICTORY_POINTS_2447:0 "Turin"
+ VICTORY_POINTS_12000:0 "Ivrea"
+ VICTORY_POINTS_12108:0 "Genoa"
+ VICTORY_POINTS_11985:0 "Venice"
+ 
+ VICTORY_POINTS_11992:0 "Verona"
+ VICTORY_POINTS_8916:0 "Milan"
+ VICTORY_POINTS_7602:0 "Udine"
+ 
+ VICTORY_POINTS_6852:0 "Bologna"
+ VICTORY_POINTS_2464:0 "Rimini"
+ VICTORY_POINTS_12059:0 "Parma"
+ 
+ VICTORY_POINTS_2913:0 "Florence"
+ VICTORY_POINTS_8377:0 "Livorno"
+ VICTORY_POINTS_8975:0 "Grosseto"
+ 
+ VICTORY_POINTS_7315:0 "Ancona"
+ VICTORY_POINTS_12239:0 "Perugia"
+ VICTORY_POINTS_2096:0 "Roma"
+ 
+ VICTORY_POINTS_12440:0 "Terracina"
+ VICTORY_POINTS_9374:0 "Pescara"
+ VICTORY_POINTS_7377:0 "Naples"
+ 
+ VICTORY_POINTS_12506:0 "Pompei"
+ VICTORY_POINTS_9374:0 "Pescara"
+ VICTORY_POINTS_12420:0 "San Severo"
+ 
+ VICTORY_POINTS_8260:0 "Barletta"
+ VICTORY_POINTS_213:0 "Bari"
+ VICTORY_POINTS_12571:0 "Taranto"
+ 
+ VICTORY_POINTS_642:0 "Lecce"
+ VICTORY_POINTS_12518:0 "Potenza"
+ VICTORY_POINTS_12739:0 "Cosenza"
+ 
+ VICTORY_POINTS_12803:0 "Catanzaro"
+ VICTORY_POINTS_12904:0 "Regio Calabria"
+ VICTORY_POINTS_12885:0 "Messina"
+ 
+ VICTORY_POINTS_7379:0 "Catania"
+ VICTORY_POINTS_12898:0 "Palermo"
+ VICTORY_POINTS_2025:0 "Cagliari"
+ 
+ VICTORY_POINTS_6277:0 "Sassari"
+ VICTORY_POINTS_12505:0 "Olblia"
+ 
+ ####################################
+# Austria
+############################################
+ VICTORY_POINTS_3797:0 "Linz"
+ VICTORY_POINTS_10193:0 "Klagenfurt"
+ VICTORY_POINTS_2743:0 "Graz"
+ VICTORY_POINTS_11694:0 "Vienna"
+
+ ####################################
+# Cze
+############################################
+ VICTORY_POINTS_11398:0 "Liberec"
+ VICTORY_POINTS_7975:0 "Ceske"
+ VICTORY_POINTS_1537:0 "Prague"
+ VICTORY_POINTS_955:0 "Brno"
+ 
+ ####################################
+# England
+############################################
+
+ VICTORY_POINTS_11398:0 "Brighton"
+ VICTORY_POINTS_11421:0 "Plymouth"
+ VICTORY_POINTS_4900:0 "Bristol"
+
+ VICTORY_POINTS_11286:0 "London"
+ VICTORY_POINTS_11358:0 "Portsmouth"
+ VICTORY_POINTS_11387:0 "Southampton"
+ 
+ VICTORY_POINTS_11285:0 "Cardiff"
+ VICTORY_POINTS_8925:0 "Norwich"
+ VICTORY_POINTS_11252:0 "Oxford"
+  
+ VICTORY_POINTS_11138:0 "Birmingham"
+ VICTORY_POINTS_3499:0 "Nottingham"
+ VICTORY_POINTS_8447:0 "Leicester"
+ 
+ VICTORY_POINTS_11064:0 "Manchester"
+ VICTORY_POINTS_11048:0 "Liverpool"
+ VICTORY_POINTS_11015:0 "Leeds"
+ 
+ VICTORY_POINTS_7261:0 "NewCastle"
+ VICTORY_POINTS_11048:0 "Liverpool"
+ VICTORY_POINTS_11015:0 "Leeds"
+ 
+ VICTORY_POINTS_6353:0 "Glasgow"
+ VICTORY_POINTS_3362:0 "Edinburgh"
+ VICTORY_POINTS_10784:0 "Dundee"
+ 
+ ####################################
+# Spain
+############################################
+
+ VICTORY_POINTS_9147:0 "Barcelona"
+ VICTORY_POINTS_12435:0 "Lleida"
+ VICTORY_POINTS_7946:0 "Tarragona"
+ VICTORY_POINTS_12415:0 "Zaragosa"
+ 
+ VICTORY_POINTS_12295:0 "Pamplona"
+ VICTORY_POINTS_12220:0 "Oviedo"
+ VICTORY_POINTS_7248:0 "A Coruna"
+ VICTORY_POINTS_8727:0 "Vigo"
+ 
+ VICTORY_POINTS_7001:0 "Leon"
+ VICTORY_POINTS_12312:0 "Ponferrada"
+ VICTORY_POINTS_9897:0 "Burgos"
+ VICTORY_POINTS_12428:0 "Valladolid"
+ 
+ 
+ VICTORY_POINTS_10092:0 "Soria"
+ VICTORY_POINTS_3341:0 "Madrid"
+ VICTORY_POINTS_12736:0 "Valencia"
+ VICTORY_POINTS_12891:0 "Alicante"
+ 
+ VICTORY_POINTS_12596:0 "Teruel"
+ VICTORY_POINTS_9060:0 "Salamanca"
+ VICTORY_POINTS_12735:0 "Caceres"
+ VICTORY_POINTS_5658:0 "Toledo"
+ 
+ VICTORY_POINTS_13039:0 "Huelva"
+ VICTORY_POINTS_5237:0 "Seville"
+ VICTORY_POINTS_13138:0 "Malaga"
+ VICTORY_POINTS_6093:0 "Granada"
+ 
+ VICTORY_POINTS_13094:0 "Almeria"
+ VICTORY_POINTS_12936:0 "Murcia"
+ VICTORY_POINTS_12779:0 "Tomelloso"
+ VICTORY_POINTS_9304:0 "Antequera"
+ VICTORY_POINTS_7209:0 "Puente Genil"
+ VICTORY_POINTS_4150:0 "Palma"
+ 
+ 
+ ####################################
+# Portugal
+############################################
+ VICTORY_POINTS_12500:0 "Porto"
+ VICTORY_POINTS_830:0 "Espinho"
+ VICTORY_POINTS_3211:0 "Leiria"
+ VICTORY_POINTS_1986:0 "Caldas da Rainha"
+ VICTORY_POINTS_12786:0 "Lisbon"
+ 
+ VICTORY_POINTS_5766:0 "Almada"
+ VICTORY_POINTS_1763:0 "Beja"
+ VICTORY_POINTS_8020:0 "Lagos"
+ 
+ ####################################
+# Ireland
+############################################
+ VICTORY_POINTS_11234:0 "Cork"
+ VICTORY_POINTS_3539:0 "Limerick"
+ VICTORY_POINTS_8743:0 "Galway"
+ VICTORY_POINTS_231:0 "Dublin"
+ VICTORY_POINTS_10966:0 "Belfast"
+ 
+ ####################################
+# Yugoslavia
+############################################
+ VICTORY_POINTS_386:0 "Trieste"
+ VICTORY_POINTS_12048:0 "Pula"
+ VICTORY_POINTS_6692:0 "Ljubljana"
+ VICTORY_POINTS_8685:0 "Rijeka"
+ 
+ VICTORY_POINTS_5526:0 "Zagreb"
+ VICTORY_POINTS_4645:0 "Split"
+ VICTORY_POINTS_6994:0 "Banja Luka"
+ VICTORY_POINTS_5737:0 "Prijedor"
+ 
+ VICTORY_POINTS_12156:0 "Sarajevo"
+ VICTORY_POINTS_7618:0 "Mostar"
+ VICTORY_POINTS_3019:0 "Novi Sad"
+ VICTORY_POINTS_9181:0 "Sombor"
+ 
+ VICTORY_POINTS_12057:0 "Belgrade"
+ VICTORY_POINTS_1053:0 "Kragujevac"
+ VICTORY_POINTS_12221:0 "Nis"
+ VICTORY_POINTS_1735:0 "Pristina"
+ 
+ VICTORY_POINTS_12325:0 "Podgorica"
+ VICTORY_POINTS_1053:0 "Kragujevac"
+ VICTORY_POINTS_12221:0 "Nis"
+ VICTORY_POINTS_1735:0 "Pristina"
+ VICTORY_POINTS_9887:0 "Skopje"
+ 
+ 
+ ####################################
+# Albania
+############################################
+ VICTORY_POINTS_1239:0 "Durres"
+ VICTORY_POINTS_12470:0 "Tirana"
+ VICTORY_POINTS_12660:0 "Sarande"
+ 
+ ####################################
+# Greece
+############################################
+ VICTORY_POINTS_8113:0 "Arta"
+ VICTORY_POINTS_7860:0 "Volos"
+ VICTORY_POINTS_2010:0 "Athens"
+ VICTORY_POINTS_12920:0 "Corinth"
+ 
+ VICTORY_POINTS_9514:0 "Patras"
+ VICTORY_POINTS_7036:0 "Kalamata"
+ VICTORY_POINTS_8358:0 "Kozani"
+ 
+ VICTORY_POINTS_12536:0 "Tessaloniki"
+ VICTORY_POINTS_9575:0 "Kavala"
+ VICTORY_POINTS_9597:0 "Alexandroupoli"
+ 
+ VICTORY_POINTS_553:0 "Kardzali"
+ ####################################
+# Bulgaria
+############################################
+
+ VICTORY_POINTS_12282:0 "Sofia"
+ 
+ VICTORY_POINTS_2825:0 "Pleven"
+ VICTORY_POINTS_8283:0 "Plovdiv"
+ VICTORY_POINTS_12230:0 "Varna"
+ VICTORY_POINTS_12235:0 "Burgas"
+ 
+ ####################################
+# Hungary
+############################################
+ VICTORY_POINTS_7799:0 "Szombathely"
+ VICTORY_POINTS_9486:0 "Veszprém"
+ VICTORY_POINTS_11790:0 "Budapest"
+ VICTORY_POINTS_11931:0 "Pecs"
+ 
+ VICTORY_POINTS_5434:0 "Sznolnok"
+ VICTORY_POINTS_11719:0 "Miskolc"
+ 
+ ####################################
+# Slovakia
+############################################
+ VICTORY_POINTS_7699:0 "Bratislava"
+ VICTORY_POINTS_6359:0 "Kosice"
+ VICTORY_POINTS_5153:0 "Mukachevo"
+ 
+ ####################################
+# Romania
+############################################
+
+ VICTORY_POINTS_7628:0 "Timisoara"
+ VICTORY_POINTS_3388:0 "Oradea"
+ VICTORY_POINTS_10035:0 "Craiova"
+ 
+ VICTORY_POINTS_5227:0 "Targa Jiu"
+ VICTORY_POINTS_11924:0 "Deva"
+ VICTORY_POINTS_360:0 "Brasov"
+ 
+ VICTORY_POINTS_11763:0 "Satu Mare"
+ VICTORY_POINTS_12160:0 "Dobrich"
+ 
+ VICTORY_POINTS_9776:0 "Bucharest"
+ VICTORY_POINTS_11830:0 "Chisinau"
+ VICTORY_POINTS_5542:0 "Izmail"
+ 
+ VICTORY_POINTS_5063:0 "Lasi"
+ VICTORY_POINTS_11660:0 "Cernauti"
+ 
+  ####################################
+# Poland
+############################################
+
+ VICTORY_POINTS_11503:0 "Krakow"
+ VICTORY_POINTS_4986:0 "Katowice"
+ VICTORY_POINTS_563:0 "Piotrkow Trybunalski"
+ VICTORY_POINTS_8845:0 "Kielce"
+ VICTORY_POINTS_1998:0 "Lodz"
+ VICTORY_POINTS_11245:0 "Kalisz"
+ VICTORY_POINTS_11181:0 "Warsaw"
+ VICTORY_POINTS_7649:0 "Plock"
+ VICTORY_POINTS_11299:0 "lublin"
+ VICTORY_POINTS_9364:0 "Bialystok"
+ VICTORY_POINTS_5858:0 "Kolomyya"
+ VICTORY_POINTS_11520:0 "Lwow"
+ VICTORY_POINTS_2156:0 "Rzeszow"
+ VICTORY_POINTS_11541:0 "Tarnopol"
+ VICTORY_POINTS_11400:0 "Luck"
+ 
+ VICTORY_POINTS_11520:0 "Lwow"
+ VICTORY_POINTS_6968:0 "Rivne"
+ VICTORY_POINTS_11191:0 "Brzesc"
+ VICTORY_POINTS_11246:0 "Pinsk"
+ 
+ VICTORY_POINTS_10998:0 "Grodno"
+ VICTORY_POINTS_10954:0 "Lida"
+ VICTORY_POINTS_7415:0 "Baranovichi"
+  ####################################
+# Baltics
+############################################
+ 
+ VICTORY_POINTS_3144:0 "Kaunas"
+ VICTORY_POINTS_6653:0 "Klaipėda"
+ VICTORY_POINTS_10804:0 "Liepāja"
+ VICTORY_POINTS_9331:0 "Riga"
+ VICTORY_POINTS_1238:0 "Vilnus"
+ VICTORY_POINTS_10638:0 "Narva"
+ VICTORY_POINTS_5556:0 "Voru"
+ VICTORY_POINTS_9144:0 "Daugavpils"
+  ####################################
+# Denmark
+############################################
+ VICTORY_POINTS_10818:0 "Aarhus"
+ VICTORY_POINTS_7418:0 "Odense"
+ VICTORY_POINTS_5433:0 "Aalborg"
+ VICTORY_POINTS_2239:0 "Copenhagen"
+ 
+  ####################################
+# Russia
+############################################
+ 
+ VICTORY_POINTS_7306:0 "Luga"
+ VICTORY_POINTS_10616:0 "Petrograd"
+ VICTORY_POINTS_5544:0 "Vyborg"
+ VICTORY_POINTS_2939:0 "Pskoff"
+
+ VICTORY_POINTS_2298:0 "Ostrov"
+ VICTORY_POINTS_10885:0 "Vitbesk"
+ VICTORY_POINTS_11028:0 "Minsk"
+ VICTORY_POINTS_3437:0 "Barysaw"
+ 
+ VICTORY_POINTS_8590:0 "Smolensk"
+ VICTORY_POINTS_11904:0 "Odessa"
+ VICTORY_POINTS_11863:0 "Mykolaiv"
+ VICTORY_POINTS_11662:0 "Yelisavetgrad"
+ 
+ VICTORY_POINTS_11569:0 "Proskurov"
+ VICTORY_POINTS_350:0 "Vinnytsia"
+ VICTORY_POINTS_11428:0 "Kiev"
+ VICTORY_POINTS_11558:0 "Cherkasy"
+ 
+ VICTORY_POINTS_6996:0 "Chernihiv"
+ VICTORY_POINTS_4258:0 "Gomel"
+ VICTORY_POINTS_12070:0 "Simferopol"
+ VICTORY_POINTS_9179:0 "Sevastopol"
+ 
+ VICTORY_POINTS_11874:0 "Melitopol"
+ VICTORY_POINTS_3642:0 "Dnipro"
+ VICTORY_POINTS_1562:0 "Zaporizhzhia"
+ VICTORY_POINTS_163:0 "Mariupol"
+ 
+ VICTORY_POINTS_11689:0 "Donetsk"
+ VICTORY_POINTS_3239:0 "Kremenchug"
+ VICTORY_POINTS_8412:0 "Poltava"
+ VICTORY_POINTS_8246:0 "Kaluga"
+ 
+ VICTORY_POINTS_3819:0 "Tula"
+ VICTORY_POINTS_11158:0 "Novomoskovsk"
+ VICTORY_POINTS_5515:0 "Stupino"
+ VICTORY_POINTS_2377:0 "Serpukhov"
+ VICTORY_POINTS_10946:0 "Kolomma"
+ 
+ 
+ VICTORY_POINTS_8280:0 "Moscow"
+ VICTORY_POINTS_10863:0 "Southern Moscow"
+ VICTORY_POINTS_5205:0 "Western Moscow"
+ VICTORY_POINTS_10034:0 "Eastern Moscow"
+ 
+ VICTORY_POINTS_3511:0 "Vladimir"
+ VICTORY_POINTS_9124:0 "Tver"
+ VICTORY_POINTS_4748:0 "Tikhvin"
+ VICTORY_POINTS_10572:0 "Petrozavodsk"
+ 
+ VICTORY_POINTS_3396:0 "Murmansk"
+ VICTORY_POINTS_11499:0 "Kharkov"
+ VICTORY_POINTS_11608:0 "Slovyvansk"
+ VICTORY_POINTS_8704:0 "Belgorod"
+ 
+ VICTORY_POINTS_6998:0 "Kursk"
+ VICTORY_POINTS_9052:0 "Voronezh"
+ VICTORY_POINTS_12082:0 "Novorossiysk"
+ VICTORY_POINTS_12051:0 "Krasnodar"
+ 
+ VICTORY_POINTS_693:0 "Sochi"
+ VICTORY_POINTS_12368:0 "Batumi"
+ VICTORY_POINTS_12349:0 "Kutaisi"
+ VICTORY_POINTS_8129:0 "Tbilisi"
+ 
+ VICTORY_POINTS_3539:0 "Rustavi"
+ VICTORY_POINTS_12632:0 "Yerevan"
+ VICTORY_POINTS_12618:0 "Baku"
+ VICTORY_POINTS_2839:0 "Ganja"
+ 
+ VICTORY_POINTS_8023:0 "Shirvan"
+ VICTORY_POINTS_12449:0 "Derbent"
+ VICTORY_POINTS_4954:0 "Nalchik"
+ VICTORY_POINTS_9823:0 "Vladikavkaz"
+ 
+ VICTORY_POINTS_6540:0 "Makhachkala"
+ VICTORY_POINTS_12017:0 "Stravropol"
+ VICTORY_POINTS_12131:0 "Pyatigorsk"
+ VICTORY_POINTS_11822:0 "Rostov-on-Don"
+ 
+ VICTORY_POINTS_11809:0 "Taganrog"
+ VICTORY_POINTS_11768:0 "Volgodonsk"
+ VICTORY_POINTS_1439:0 "Millerovo"
+ VICTORY_POINTS_11937:0 "Astrakhan"
+ 
+ VICTORY_POINTS_8012:0 "Volvograd"
+ VICTORY_POINTS_11068:0 "Saratov"
+ VICTORY_POINTS_4460:0 "Tambov"
+ VICTORY_POINTS_7451:0 "Yaroslav"
+ 
+  ####################################
+# Turkey
+############################################
+ 
+ VICTORY_POINTS_7353:0 "Sakarya"
+ VICTORY_POINTS_4449:0 "Bursa"
+ VICTORY_POINTS_4249:0 "Canakkale"
+ VICTORY_POINTS_12758:0 "Ayvalik"
+ 
+ VICTORY_POINTS_12877:0 "Izmir"
+ VICTORY_POINTS_12843:0 "Manisa"
+ VICTORY_POINTS_4249:0 "Canakkale"
+ VICTORY_POINTS_12758:0 "Ayvalik"
+ 
+ 
+ 

@@ -1,0 +1,26 @@
+state={
+	id=120
+	name="STATE_120"
+	provinces={
+		955 1577 1873 3045 4353 5606 6165 8127 9182 10102 11465 11481 11493 11498 11530 11566 
+	}
+	resources={
+		steel=2
+	}
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}	
+	
+	Victory_points = {
+		955 20
+	}
+	
+	}
+	manpower=2370000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

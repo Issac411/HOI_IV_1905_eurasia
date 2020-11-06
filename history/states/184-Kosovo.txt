@@ -1,0 +1,20 @@
+state={
+	id=184
+	name="STATE_184"
+	provinces={
+		4958 8834 12205 12208 12228 12263 
+	}
+	history = {
+		add_core_of = SER
+		owner = SER
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+	}
+	
+	manpower=460000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

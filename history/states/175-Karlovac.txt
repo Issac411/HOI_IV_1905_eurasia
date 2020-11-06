@@ -1,0 +1,27 @@
+
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		2916 8440 8685 12045 12079 15892 
+	}
+	
+	history = {
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 3
+			8685 = {
+				naval_base=3
+			}
+		}
+		
+		victory_points = {
+			8685 5
+		}
+	}
+	
+	manpower=682000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

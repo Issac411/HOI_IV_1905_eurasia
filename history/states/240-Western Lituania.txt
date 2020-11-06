@@ -1,0 +1,27 @@
+state={
+	id=240
+	name="STATE_240"
+	provinces={
+		1824 2468 4715 5466 6653 10805 
+	}
+	history = {
+		add_core_of = RUS
+		owner = RUS
+		buildings = {
+			infrastructure = 3
+			6653 = {
+				naval_base = 2
+			}
+		}
+		
+		
+		victory_points = {
+			6653 5
+		}
+		
+	}
+	
+	manpower=427500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

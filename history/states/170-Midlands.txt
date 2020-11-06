@@ -1,0 +1,28 @@
+state={
+	id=170
+	name="STATE_170"
+	provinces={
+		231 2272 3466 3701 4503 5267 5768 8409 8593 11056 11082 11119 11173 11174 11224 
+	}
+	history = {
+		add_core_of = ENG
+		owner = ENG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			231 = {
+				naval_base=3
+			}
+		}
+		
+		victory_points = {
+			231 20
+		}			
+		
+	}
+	
+	manpower=1625000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

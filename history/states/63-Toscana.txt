@@ -1,0 +1,37 @@
+
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		1762 2580 2913 4082 4660 5863 8377 8613 8726 8975 9065 9273 9562 12207 12259 15899 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+			8377 = {
+				naval_base = 2
+			}
+			8975 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			2913 20
+		}
+		victory_points = {
+			8377 3
+		}
+		
+		victory_points = {
+			8975 5
+		}
+		
+	}
+	
+	
+	manpower=3125000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

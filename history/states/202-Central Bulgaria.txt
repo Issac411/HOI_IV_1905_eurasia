@@ -1,0 +1,23 @@
+state={
+	id=202
+	name="STATE_202"
+	provinces={
+		832 2555 4338 6109 6268 6844 8283 9626 12289 12296 12328 
+	}
+	history = {
+		add_core_of = BUL
+		owner = BUL
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			8283 20
+		}
+		
+	
+	}
+	
+	manpower=2100000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=191
+	name="STATE_191"
+	provinces={
+		8239 
+	}
+	resources={
+		steel=12
+		chromium=12
+	}
+	history = {
+		add_core_of = GRE
+		add_core_of = ALB
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+	
+	manpower=114500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

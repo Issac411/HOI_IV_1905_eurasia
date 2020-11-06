@@ -1,0 +1,37 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		2190 3237 3836 4331 6917 8147 8462 9318 9625 10186 10932 10953 10964 10976 11004 11012 11024 11030 11031 11039 11045 11066 
+	}
+	history={ 
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			10976 = {
+				naval_base = 2
+			}
+			6917 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			10976 5
+		}
+		victory_points = {
+			6917 3
+		}
+		
+		
+
+
+	}
+	
+	
+	manpower=2355000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

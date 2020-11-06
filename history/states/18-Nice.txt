@@ -1,0 +1,28 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		5886 
+	}
+	
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			5886 = {
+                naval_base = 2
+            }
+		}
+		
+		victory_points = {
+			5886 10
+		}
+
+
+	}
+	
+	manpower=400210
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

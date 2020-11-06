@@ -1,0 +1,32 @@
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+		291 7052 7684 7817 9540 9603 11553 11592 11677 
+	}
+	resources={
+		steel=18
+	}
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			11553 = {
+                naval_base = 4
+            }
+		}
+		
+		victory_points = {
+			11553 10
+		}
+
+
+	}
+	
+	
+	manpower=2670000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

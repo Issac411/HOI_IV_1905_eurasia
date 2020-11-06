@@ -1,0 +1,23 @@
+state={
+	id=111
+	name="STATE_111"
+	provinces={
+		8076 10073 11884 
+	}
+	
+	history={ 
+		add_core_of = ASH
+		owner = ASH
+		buildings = {
+			infrastructure = 2
+		}
+		
+		Victory_points = {
+			8076 3
+		}
+	}
+	
+	manpower=310000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

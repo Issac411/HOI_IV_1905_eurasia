@@ -1,0 +1,30 @@
+state={
+	id=75
+	name="STATE_75"
+	provinces={
+		6246 12274 12301 12313 12315 12347 12394 12411 12433 
+	}
+	
+	history = {
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			6246 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			6246 3
+		}
+		
+		victory_points = {
+			12313 3
+		}
+	}
+	manpower=327000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

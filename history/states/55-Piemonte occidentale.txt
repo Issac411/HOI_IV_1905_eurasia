@@ -1,0 +1,31 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		2447 6258 7194 
+	}
+	resources={
+		steel=12
+		aluminium=8
+		chromium=3
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			2447 20
+		}
+
+
+	}
+	
+	
+	manpower=368250
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=91
+	name="STATE_91"
+
+	history={
+		add_core_of = GER
+		owner = GER
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			882 3 
+		}
+
+	}
+
+	provinces={
+		882 1034 9787 10915 10936 
+	}
+	manpower=158600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,42 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		1448 3072 6645 6764 7199 7715 12174 12187 12198 12217 12243 12246 
+	}
+	resources={
+		aluminium=38
+	}
+	
+	history={ 
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 2
+			6764 = {
+                naval_base = 5
+            }
+			12246 = {
+                naval_base = 2
+            }
+		}
+		
+		victory_points = {
+			6764 20
+		}
+		
+		victory_points = {
+			12246 5
+		}
+
+
+	}
+	
+	
+	manpower=2450000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

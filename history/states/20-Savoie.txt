@@ -1,0 +1,26 @@
+
+state={
+	id=20
+	name="STATE_20"
+	
+	resources={
+		steel=12
+	}
+	
+	history={
+		add_core_of = FRA
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7706 11966 11983 11988 12029 
+	}
+	manpower=450000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=323
+	name="STATE_323"
+	provinces={
+		4714 5106 7021 7131 7501 8471 8996 12966 12999 13015 13049 13051 13099 
+	}
+	history={ 
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+		}
+		
+		
+		
+	}
+	manpower=555000
+	state_category = rural	
+	buildings_max_level_factor=1.000
+}
