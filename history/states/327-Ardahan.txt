@@ -2,20 +2,21 @@
 state={
 	id=327
 	name="STATE_327"
-	provinces={
-		3528 5955 6421 6499 7050 8600 9584 12477 
-	}
-	history={ 
+
+	history={
 		add_core_of = TUR
 		owner = TUR
 		buildings = {
 			infrastructure = 1
+
 		}
-		
-		
-		
+
+	}
+
+	provinces={
+		3528 5955 6421 8600 
 	}
 	manpower=114000
-	state_category = pastoral	
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

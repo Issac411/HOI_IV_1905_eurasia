@@ -2,7 +2,7 @@ state={
 	id=309
 	name="STATE_309"
 	provinces={
-		3057 3200 4143 7829 8648 12883 12911 12998 13031 13041 13045 13046 
+		8505 3057 3200 4143 7829 8648 12883 12911 12998 13031 13041 13045 13046 
 	}
 	history={ 
 		add_core_of = TUR
@@ -12,7 +12,9 @@ state={
 		}
 		
 		
-		
+		victory_points = {
+			8505 3
+		}
 	}
 	manpower=240000
 	state_category = rural	

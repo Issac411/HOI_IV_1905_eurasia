@@ -9,9 +9,14 @@ state={
 		owner = TUR
 		buildings = {
 			infrastructure = 3
+			7570 = {
+				naval_base = 1
+			}
 		}
 		
-		
+		victory_points = {
+			7570 3
+		}
 		
 	}
 	manpower=98500

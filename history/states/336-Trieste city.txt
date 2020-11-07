@@ -1,0 +1,21 @@
+state={
+	id=336
+	name="STATE_336"
+	provinces={
+		386 12027 
+	}
+	history={ 
+		add_core_of = ITA
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+		}
+	
+
+	}
+	
+	
+	manpower=72000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

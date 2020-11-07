@@ -4,8 +4,9 @@ state={
 	name="STATE_221"
 
 	history={
+		add_core_of = RUS
 		add_core_of = ROM
-		owner = ROM
+		owner = RUS
 		buildings = {
 			infrastructure = 2
 
@@ -17,7 +18,7 @@ state={
 	}
 
 	provinces={
-		5029 5368 5542 6077 8431 8589 8786 11936 11948 11972 12007 12062 
+		5029 5368 8431 11936 11948 
 	}
 	manpower=422500
 	buildings_max_level_factor=1.000

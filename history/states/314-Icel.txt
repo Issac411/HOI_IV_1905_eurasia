@@ -9,10 +9,20 @@ state={
 		owner = TUR
 		buildings = {
 			infrastructure = 2
+			3536 = {
+				naval_base = 2
+			}
+			13106 = {
+				naval_base = 1
+			}
 		}
 		
-		
-		
+		victory_points = {
+			3536 10
+		}
+		victory_points = {
+			13106 3
+		}	
 	}
 	manpower=333500
 	state_category = rural	

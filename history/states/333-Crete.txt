@@ -1,0 +1,32 @@
+state={
+	id=333
+	name="STATE_333"
+	provinces={
+		1828 8950 9270 9747 13321 13354 
+	}
+	history = {
+		add_core_of = GRE
+		owner = TUR
+		buildings = {
+			infrastructure = 3
+			9270 = {
+				naval_base = 2
+			}
+			13354 = {
+				naval_base = 2
+			}
+		}
+		
+		victory_points = {
+			13354 10
+		}
+		
+		
+		
+		
+	}
+	
+	manpower=234500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

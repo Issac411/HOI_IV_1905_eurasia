@@ -2,7 +2,7 @@ state={
 	id=307
 	name="STATE_307"
 	provinces={
-		296 1411 7226 8505 12900 12922 12950 13002 13024 
+		296 1411 7226 12900 12922 12950 13002 13024 
 	}
 	history={ 
 		add_core_of = TUR
@@ -12,6 +12,9 @@ state={
 		}
 		
 		
+		victory_points = {
+			296 3
+		}
 		
 	}
 	manpower=233000

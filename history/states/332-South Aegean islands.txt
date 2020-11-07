@@ -1,0 +1,28 @@
+state={
+	id=332
+	name="STATE_332"
+	provinces={
+		7642 15922 15925 15928 15929 
+	}
+	history = {
+		add_core_of = GRE
+		add_core_of = TUR
+		owner = TUR
+		buildings = {
+			infrastructure = 1
+			7642 = {
+				naval_base = 1
+			}
+
+		}
+		
+		
+		
+		
+		
+	}
+	
+	manpower= 38000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

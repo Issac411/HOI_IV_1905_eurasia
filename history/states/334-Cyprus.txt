@@ -1,0 +1,28 @@
+state={
+	id=334
+	name="STATE_334"
+	provinces={
+		323 5560 10037 13330 
+	}
+	history = {
+		add_core_of = TUR
+		add_core_of = GRE
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+			323= {
+				naval_base = 2
+			}
+			13330= {
+				naval_base = 1
+			}
+		}
+		
+		
+		
+	}
+	
+	manpower=128000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -4,8 +4,9 @@ state={
 	name="STATE_222"
 
 	history={
+		add_core_of = RUS
 		add_core_of = ROM
-		owner = ROM
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 

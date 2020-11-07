@@ -13,8 +13,9 @@ state={
 			industrial_complex = 1
 		}
 		
-		
-		
+		victory_points = {
+			12670 20
+		}
 	}
 	manpower=1850000
 	state_category = town	

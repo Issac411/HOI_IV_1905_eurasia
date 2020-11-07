@@ -1,0 +1,27 @@
+state={
+	id=331
+	name="STATE_331"
+	provinces={
+		6164 12750 12841 12876 12960 15903 15905 15908 15910 15911 15912 15913 15914 15915 15916 15917 15918 15919 15920 15921 15923 15924 
+	}
+	history = {
+		add_core_of = GRE
+		owner = GRE
+		buildings = {
+			infrastructure = 1
+			15908 = {
+				naval_base = 1
+			}
+
+		}
+		
+		
+		
+		
+		
+	}
+	
+	manpower= 62000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

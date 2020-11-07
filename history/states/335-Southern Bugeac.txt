@@ -1,0 +1,21 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		5542 6077 8589 8786 11972 12007 12062 
+	}
+	history = {
+		add_core_of = ROM
+		owner = ROM
+		buildings = {
+			infrastructure = 2
+		}
+		
+		
+		
+	}
+	
+	manpower=128000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

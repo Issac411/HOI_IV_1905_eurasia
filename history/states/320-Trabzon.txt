@@ -1,20 +1,22 @@
+
 state={
 	id=320
 	name="STATE_320"
-	provinces={
-		808 1311 2453 4409 5874 6481 9171 9673 9675 9694 12487 12542 12554 12576 12588 12612 
-	}
-	history={ 
+
+	history={
 		add_core_of = TUR
 		owner = TUR
 		buildings = {
 			infrastructure = 2
+
 		}
-		
-		
-		
+
+	}
+
+	provinces={
+		808 1311 2453 4409 5874 6481 9171 9675 9694 12554 12576 12588 12612 
 	}
 	manpower=360000
-	state_category = pastoral	
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
